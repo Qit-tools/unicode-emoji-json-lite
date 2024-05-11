@@ -10,7 +10,7 @@ This 📚 library provides a 🪶 lightweight version of the [unicode-emoji-json
 npm install @qit.tools/unicode-emoji-json-lite
 ```
 
-## 🥯 Bun
+## 🧁 Bun
 
 ```bash
 bun add @qit.tools/unicode-emoji-json-lite
