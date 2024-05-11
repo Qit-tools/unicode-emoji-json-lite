@@ -4,8 +4,28 @@ This 📚 library provides a 🪶 lightweight version of the [unicode-emoji-json
 
 ## 🏗️ Install
 
+## 🎉 NPM
+
 ```bash
-npm i @qit.tools/unicode-emoji-json-lite
+npm install @qit.tools/unicode-emoji-json-lite
+```
+
+## 🥯 Bun
+
+```bash
+bun add @qit.tools/unicode-emoji-json-lite
+```
+
+## 🌟 PNPM
+
+```bash
+pnpm add @qit.tools/unicode-emoji-json-lite
+```
+
+### 🧶 Yarn
+
+```bash
+yarn add @qit.tools/unicode-emoji-json-lite
 ```
 
 ## 📝 Details
