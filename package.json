@@ -1,6 +1,6 @@
 {
   "name": "@qit.tools/unicode-emoji-json-lite",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "This library provides a lightweight version of the unicode-emoji-json library.",
   "main": "data-by-emoji-lite.json",
   "files": [
@@ -33,6 +33,13 @@
     "tape": "^5.7.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
+  },
+  "bugs": {
+    "url": "https://github.com/dejurin/unicode-emoji-json-lite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejurin/unicode-emoji-json-lite.git"
   },
   "keywords": ["emoji", "unicode", "json", "emoji-data", "lite"],
   "license": "MIT"
