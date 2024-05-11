@@ -1,0 +1,39 @@
+{
+  "name": "@qit.tools/unicode-emoji-json-lite",
+  "version": "0.2.1",
+  "description": "This library provides a lightweight version of the unicode-emoji-json library.",
+  "main": "data-by-emoji-lite.json",
+  "files": [
+    "data-by-emoji-lite.json",
+    "data-by-group-lite.json",
+    "data-emoji-components.json",
+    "data-group-map.json",
+    "data-ordered-emoji.json"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node tests/lite.test.ts",
+    "start": "ts-node scripts/lite.ts",
+    "lint": "eslint './**/*.{ts,tsx}' --fix",
+    "fmt": "prettier --write '**/*.{ts,json}'"
+  },
+  "dependencies": {
+    "unicode-emoji-json": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "@types/prettier": "^3.0.0",
+    "@types/tape": "^5.6.4",
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5",
+    "tape": "^5.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "keywords": ["emoji", "unicode", "json", "emoji-data", "lite"],
+  "license": "MIT"
+}

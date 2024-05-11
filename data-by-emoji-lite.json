@@ -1,0 +1,7917 @@
+{
+  "😀": {
+    "name": "grinning face",
+    "group": "SE"
+  },
+  "😃": {
+    "name": "grinning face with big eyes",
+    "group": "SE"
+  },
+  "😄": {
+    "name": "grinning face with smiling eyes",
+    "group": "SE"
+  },
+  "😁": {
+    "name": "beaming face with smiling eyes",
+    "group": "SE"
+  },
+  "😆": {
+    "name": "grinning squinting face",
+    "group": "SE"
+  },
+  "😅": {
+    "name": "grinning face with sweat",
+    "group": "SE"
+  },
+  "🤣": {
+    "name": "rolling on the floor laughing",
+    "group": "SE"
+  },
+  "😂": {
+    "name": "face with tears of joy",
+    "group": "SE"
+  },
+  "🙂": {
+    "name": "slightly smiling face",
+    "group": "SE"
+  },
+  "🙃": {
+    "name": "upside-down face",
+    "group": "SE"
+  },
+  "🫠": {
+    "name": "melting face",
+    "group": "SE"
+  },
+  "😉": {
+    "name": "winking face",
+    "group": "SE"
+  },
+  "😊": {
+    "name": "smiling face with smiling eyes",
+    "group": "SE"
+  },
+  "😇": {
+    "name": "smiling face with halo",
+    "group": "SE"
+  },
+  "🥰": {
+    "name": "smiling face with hearts",
+    "group": "SE"
+  },
+  "😍": {
+    "name": "smiling face with heart-eyes",
+    "group": "SE"
+  },
+  "🤩": {
+    "name": "star-struck",
+    "group": "SE"
+  },
+  "😘": {
+    "name": "face blowing a kiss",
+    "group": "SE"
+  },
+  "😗": {
+    "name": "kissing face",
+    "group": "SE"
+  },
+  "☺️": {
+    "name": "smiling face",
+    "group": "SE"
+  },
+  "😚": {
+    "name": "kissing face with closed eyes",
+    "group": "SE"
+  },
+  "😙": {
+    "name": "kissing face with smiling eyes",
+    "group": "SE"
+  },
+  "🥲": {
+    "name": "smiling face with tear",
+    "group": "SE"
+  },
+  "😋": {
+    "name": "face savoring food",
+    "group": "SE"
+  },
+  "😛": {
+    "name": "face with tongue",
+    "group": "SE"
+  },
+  "😜": {
+    "name": "winking face with tongue",
+    "group": "SE"
+  },
+  "🤪": {
+    "name": "zany face",
+    "group": "SE"
+  },
+  "😝": {
+    "name": "squinting face with tongue",
+    "group": "SE"
+  },
+  "🤑": {
+    "name": "money-mouth face",
+    "group": "SE"
+  },
+  "🤗": {
+    "name": "smiling face with open hands",
+    "group": "SE"
+  },
+  "🤭": {
+    "name": "face with hand over mouth",
+    "group": "SE"
+  },
+  "🫢": {
+    "name": "face with open eyes and hand over mouth",
+    "group": "SE"
+  },
+  "🫣": {
+    "name": "face with peeking eye",
+    "group": "SE"
+  },
+  "🤫": {
+    "name": "shushing face",
+    "group": "SE"
+  },
+  "🤔": {
+    "name": "thinking face",
+    "group": "SE"
+  },
+  "🫡": {
+    "name": "saluting face",
+    "group": "SE"
+  },
+  "🤐": {
+    "name": "zipper-mouth face",
+    "group": "SE"
+  },
+  "🤨": {
+    "name": "face with raised eyebrow",
+    "group": "SE"
+  },
+  "😐": {
+    "name": "neutral face",
+    "group": "SE"
+  },
+  "😑": {
+    "name": "expressionless face",
+    "group": "SE"
+  },
+  "😶": {
+    "name": "face without mouth",
+    "group": "SE"
+  },
+  "🫥": {
+    "name": "dotted line face",
+    "group": "SE"
+  },
+  "😶‍🌫️": {
+    "name": "face in clouds",
+    "group": "SE"
+  },
+  "😏": {
+    "name": "smirking face",
+    "group": "SE"
+  },
+  "😒": {
+    "name": "unamused face",
+    "group": "SE"
+  },
+  "🙄": {
+    "name": "face with rolling eyes",
+    "group": "SE"
+  },
+  "😬": {
+    "name": "grimacing face",
+    "group": "SE"
+  },
+  "😮‍💨": {
+    "name": "face exhaling",
+    "group": "SE"
+  },
+  "🤥": {
+    "name": "lying face",
+    "group": "SE"
+  },
+  "🫨": {
+    "name": "shaking face",
+    "group": "SE"
+  },
+  "🙂‍↔️": {
+    "name": "head shaking horizontally",
+    "group": "SE"
+  },
+  "🙂‍↕️": {
+    "name": "head shaking vertically",
+    "group": "SE"
+  },
+  "😌": {
+    "name": "relieved face",
+    "group": "SE"
+  },
+  "😔": {
+    "name": "pensive face",
+    "group": "SE"
+  },
+  "😪": {
+    "name": "sleepy face",
+    "group": "SE"
+  },
+  "🤤": {
+    "name": "drooling face",
+    "group": "SE"
+  },
+  "😴": {
+    "name": "sleeping face",
+    "group": "SE"
+  },
+  "😷": {
+    "name": "face with medical mask",
+    "group": "SE"
+  },
+  "🤒": {
+    "name": "face with thermometer",
+    "group": "SE"
+  },
+  "🤕": {
+    "name": "face with head-bandage",
+    "group": "SE"
+  },
+  "🤢": {
+    "name": "nauseated face",
+    "group": "SE"
+  },
+  "🤮": {
+    "name": "face vomiting",
+    "group": "SE"
+  },
+  "🤧": {
+    "name": "sneezing face",
+    "group": "SE"
+  },
+  "🥵": {
+    "name": "hot face",
+    "group": "SE"
+  },
+  "🥶": {
+    "name": "cold face",
+    "group": "SE"
+  },
+  "🥴": {
+    "name": "woozy face",
+    "group": "SE"
+  },
+  "😵": {
+    "name": "face with crossed-out eyes",
+    "group": "SE"
+  },
+  "😵‍💫": {
+    "name": "face with spiral eyes",
+    "group": "SE"
+  },
+  "🤯": {
+    "name": "exploding head",
+    "group": "SE"
+  },
+  "🤠": {
+    "name": "cowboy hat face",
+    "group": "SE"
+  },
+  "🥳": {
+    "name": "partying face",
+    "group": "SE"
+  },
+  "🥸": {
+    "name": "disguised face",
+    "group": "SE"
+  },
+  "😎": {
+    "name": "smiling face with sunglasses",
+    "group": "SE"
+  },
+  "🤓": {
+    "name": "nerd face",
+    "group": "SE"
+  },
+  "🧐": {
+    "name": "face with monocle",
+    "group": "SE"
+  },
+  "😕": {
+    "name": "confused face",
+    "group": "SE"
+  },
+  "🫤": {
+    "name": "face with diagonal mouth",
+    "group": "SE"
+  },
+  "😟": {
+    "name": "worried face",
+    "group": "SE"
+  },
+  "🙁": {
+    "name": "slightly frowning face",
+    "group": "SE"
+  },
+  "☹️": {
+    "name": "frowning face",
+    "group": "SE"
+  },
+  "😮": {
+    "name": "face with open mouth",
+    "group": "SE"
+  },
+  "😯": {
+    "name": "hushed face",
+    "group": "SE"
+  },
+  "😲": {
+    "name": "astonished face",
+    "group": "SE"
+  },
+  "😳": {
+    "name": "flushed face",
+    "group": "SE"
+  },
+  "🥺": {
+    "name": "pleading face",
+    "group": "SE"
+  },
+  "🥹": {
+    "name": "face holding back tears",
+    "group": "SE"
+  },
+  "😦": {
+    "name": "frowning face with open mouth",
+    "group": "SE"
+  },
+  "😧": {
+    "name": "anguished face",
+    "group": "SE"
+  },
+  "😨": {
+    "name": "fearful face",
+    "group": "SE"
+  },
+  "😰": {
+    "name": "anxious face with sweat",
+    "group": "SE"
+  },
+  "😥": {
+    "name": "sad but relieved face",
+    "group": "SE"
+  },
+  "😢": {
+    "name": "crying face",
+    "group": "SE"
+  },
+  "😭": {
+    "name": "loudly crying face",
+    "group": "SE"
+  },
+  "😱": {
+    "name": "face screaming in fear",
+    "group": "SE"
+  },
+  "😖": {
+    "name": "confounded face",
+    "group": "SE"
+  },
+  "😣": {
+    "name": "persevering face",
+    "group": "SE"
+  },
+  "😞": {
+    "name": "disappointed face",
+    "group": "SE"
+  },
+  "😓": {
+    "name": "downcast face with sweat",
+    "group": "SE"
+  },
+  "😩": {
+    "name": "weary face",
+    "group": "SE"
+  },
+  "😫": {
+    "name": "tired face",
+    "group": "SE"
+  },
+  "🥱": {
+    "name": "yawning face",
+    "group": "SE"
+  },
+  "😤": {
+    "name": "face with steam from nose",
+    "group": "SE"
+  },
+  "😡": {
+    "name": "enraged face",
+    "group": "SE"
+  },
+  "😠": {
+    "name": "angry face",
+    "group": "SE"
+  },
+  "🤬": {
+    "name": "face with symbols on mouth",
+    "group": "SE"
+  },
+  "😈": {
+    "name": "smiling face with horns",
+    "group": "SE"
+  },
+  "👿": {
+    "name": "angry face with horns",
+    "group": "SE"
+  },
+  "💀": {
+    "name": "skull",
+    "group": "SE"
+  },
+  "☠️": {
+    "name": "skull and crossbones",
+    "group": "SE"
+  },
+  "💩": {
+    "name": "pile of poo",
+    "group": "SE"
+  },
+  "🤡": {
+    "name": "clown face",
+    "group": "SE"
+  },
+  "👹": {
+    "name": "ogre",
+    "group": "SE"
+  },
+  "👺": {
+    "name": "goblin",
+    "group": "SE"
+  },
+  "👻": {
+    "name": "ghost",
+    "group": "SE"
+  },
+  "👽": {
+    "name": "alien",
+    "group": "SE"
+  },
+  "👾": {
+    "name": "alien monster",
+    "group": "SE"
+  },
+  "🤖": {
+    "name": "robot",
+    "group": "SE"
+  },
+  "😺": {
+    "name": "grinning cat",
+    "group": "SE"
+  },
+  "😸": {
+    "name": "grinning cat with smiling eyes",
+    "group": "SE"
+  },
+  "😹": {
+    "name": "cat with tears of joy",
+    "group": "SE"
+  },
+  "😻": {
+    "name": "smiling cat with heart-eyes",
+    "group": "SE"
+  },
+  "😼": {
+    "name": "cat with wry smile",
+    "group": "SE"
+  },
+  "😽": {
+    "name": "kissing cat",
+    "group": "SE"
+  },
+  "🙀": {
+    "name": "weary cat",
+    "group": "SE"
+  },
+  "😿": {
+    "name": "crying cat",
+    "group": "SE"
+  },
+  "😾": {
+    "name": "pouting cat",
+    "group": "SE"
+  },
+  "🙈": {
+    "name": "see-no-evil monkey",
+    "group": "SE"
+  },
+  "🙉": {
+    "name": "hear-no-evil monkey",
+    "group": "SE"
+  },
+  "🙊": {
+    "name": "speak-no-evil monkey",
+    "group": "SE"
+  },
+  "💌": {
+    "name": "love letter",
+    "group": "SE"
+  },
+  "💘": {
+    "name": "heart with arrow",
+    "group": "SE"
+  },
+  "💝": {
+    "name": "heart with ribbon",
+    "group": "SE"
+  },
+  "💖": {
+    "name": "sparkling heart",
+    "group": "SE"
+  },
+  "💗": {
+    "name": "growing heart",
+    "group": "SE"
+  },
+  "💓": {
+    "name": "beating heart",
+    "group": "SE"
+  },
+  "💞": {
+    "name": "revolving hearts",
+    "group": "SE"
+  },
+  "💕": {
+    "name": "two hearts",
+    "group": "SE"
+  },
+  "💟": {
+    "name": "heart decoration",
+    "group": "SE"
+  },
+  "❣️": {
+    "name": "heart exclamation",
+    "group": "SE"
+  },
+  "💔": {
+    "name": "broken heart",
+    "group": "SE"
+  },
+  "❤️‍🔥": {
+    "name": "heart on fire",
+    "group": "SE"
+  },
+  "❤️‍🩹": {
+    "name": "mending heart",
+    "group": "SE"
+  },
+  "❤️": {
+    "name": "red heart",
+    "group": "SE"
+  },
+  "🩷": {
+    "name": "pink heart",
+    "group": "SE"
+  },
+  "🧡": {
+    "name": "orange heart",
+    "group": "SE"
+  },
+  "💛": {
+    "name": "yellow heart",
+    "group": "SE"
+  },
+  "💚": {
+    "name": "green heart",
+    "group": "SE"
+  },
+  "💙": {
+    "name": "blue heart",
+    "group": "SE"
+  },
+  "🩵": {
+    "name": "light blue heart",
+    "group": "SE"
+  },
+  "💜": {
+    "name": "purple heart",
+    "group": "SE"
+  },
+  "🤎": {
+    "name": "brown heart",
+    "group": "SE"
+  },
+  "🖤": {
+    "name": "black heart",
+    "group": "SE"
+  },
+  "🩶": {
+    "name": "grey heart",
+    "group": "SE"
+  },
+  "🤍": {
+    "name": "white heart",
+    "group": "SE"
+  },
+  "💋": {
+    "name": "kiss mark",
+    "group": "SE"
+  },
+  "💯": {
+    "name": "hundred points",
+    "group": "SE"
+  },
+  "💢": {
+    "name": "anger symbol",
+    "group": "SE"
+  },
+  "💥": {
+    "name": "collision",
+    "group": "SE"
+  },
+  "💫": {
+    "name": "dizzy",
+    "group": "SE"
+  },
+  "💦": {
+    "name": "sweat droplets",
+    "group": "SE"
+  },
+  "💨": {
+    "name": "dashing away",
+    "group": "SE"
+  },
+  "🕳️": {
+    "name": "hole",
+    "group": "SE"
+  },
+  "💬": {
+    "name": "speech balloon",
+    "group": "SE"
+  },
+  "👁️‍🗨️": {
+    "name": "eye in speech bubble",
+    "group": "SE"
+  },
+  "🗨️": {
+    "name": "left speech bubble",
+    "group": "SE"
+  },
+  "🗯️": {
+    "name": "right anger bubble",
+    "group": "SE"
+  },
+  "💭": {
+    "name": "thought balloon",
+    "group": "SE"
+  },
+  "💤": {
+    "name": "ZZZ",
+    "group": "SE"
+  },
+  "👋": {
+    "name": "waving hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🤚": {
+    "name": "raised back of hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🖐️": {
+    "name": "hand with fingers splayed",
+    "group": "PB",
+    "tone": true
+  },
+  "✋": {
+    "name": "raised hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🖖": {
+    "name": "vulcan salute",
+    "group": "PB",
+    "tone": true
+  },
+  "🫱": {
+    "name": "rightwards hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🫲": {
+    "name": "leftwards hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🫳": {
+    "name": "palm down hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🫴": {
+    "name": "palm up hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🫷": {
+    "name": "leftwards pushing hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🫸": {
+    "name": "rightwards pushing hand",
+    "group": "PB",
+    "tone": true
+  },
+  "👌": {
+    "name": "OK hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🤌": {
+    "name": "pinched fingers",
+    "group": "PB",
+    "tone": true
+  },
+  "🤏": {
+    "name": "pinching hand",
+    "group": "PB",
+    "tone": true
+  },
+  "✌️": {
+    "name": "victory hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🤞": {
+    "name": "crossed fingers",
+    "group": "PB",
+    "tone": true
+  },
+  "🫰": {
+    "name": "hand with index finger and thumb crossed",
+    "group": "PB",
+    "tone": true
+  },
+  "🤟": {
+    "name": "love-you gesture",
+    "group": "PB",
+    "tone": true
+  },
+  "🤘": {
+    "name": "sign of the horns",
+    "group": "PB",
+    "tone": true
+  },
+  "🤙": {
+    "name": "call me hand",
+    "group": "PB",
+    "tone": true
+  },
+  "👈": {
+    "name": "backhand index pointing left",
+    "group": "PB",
+    "tone": true
+  },
+  "👉": {
+    "name": "backhand index pointing right",
+    "group": "PB",
+    "tone": true
+  },
+  "👆": {
+    "name": "backhand index pointing up",
+    "group": "PB",
+    "tone": true
+  },
+  "🖕": {
+    "name": "middle finger",
+    "group": "PB",
+    "tone": true
+  },
+  "👇": {
+    "name": "backhand index pointing down",
+    "group": "PB",
+    "tone": true
+  },
+  "☝️": {
+    "name": "index pointing up",
+    "group": "PB",
+    "tone": true
+  },
+  "🫵": {
+    "name": "index pointing at the viewer",
+    "group": "PB",
+    "tone": true
+  },
+  "👍": {
+    "name": "thumbs up",
+    "group": "PB",
+    "tone": true
+  },
+  "👎": {
+    "name": "thumbs down",
+    "group": "PB",
+    "tone": true
+  },
+  "✊": {
+    "name": "raised fist",
+    "group": "PB",
+    "tone": true
+  },
+  "👊": {
+    "name": "oncoming fist",
+    "group": "PB",
+    "tone": true
+  },
+  "🤛": {
+    "name": "left-facing fist",
+    "group": "PB",
+    "tone": true
+  },
+  "🤜": {
+    "name": "right-facing fist",
+    "group": "PB",
+    "tone": true
+  },
+  "👏": {
+    "name": "clapping hands",
+    "group": "PB",
+    "tone": true
+  },
+  "🙌": {
+    "name": "raising hands",
+    "group": "PB",
+    "tone": true
+  },
+  "🫶": {
+    "name": "heart hands",
+    "group": "PB",
+    "tone": true
+  },
+  "👐": {
+    "name": "open hands",
+    "group": "PB",
+    "tone": true
+  },
+  "🤲": {
+    "name": "palms up together",
+    "group": "PB",
+    "tone": true
+  },
+  "🤝": {
+    "name": "handshake",
+    "group": "PB",
+    "tone": true
+  },
+  "🙏": {
+    "name": "folded hands",
+    "group": "PB",
+    "tone": true
+  },
+  "✍️": {
+    "name": "writing hand",
+    "group": "PB",
+    "tone": true
+  },
+  "💅": {
+    "name": "nail polish",
+    "group": "PB",
+    "tone": true
+  },
+  "🤳": {
+    "name": "selfie",
+    "group": "PB",
+    "tone": true
+  },
+  "💪": {
+    "name": "flexed biceps",
+    "group": "PB",
+    "tone": true
+  },
+  "🦾": {
+    "name": "mechanical arm",
+    "group": "PB"
+  },
+  "🦿": {
+    "name": "mechanical leg",
+    "group": "PB"
+  },
+  "🦵": {
+    "name": "leg",
+    "group": "PB",
+    "tone": true
+  },
+  "🦶": {
+    "name": "foot",
+    "group": "PB",
+    "tone": true
+  },
+  "👂": {
+    "name": "ear",
+    "group": "PB",
+    "tone": true
+  },
+  "🦻": {
+    "name": "ear with hearing aid",
+    "group": "PB",
+    "tone": true
+  },
+  "👃": {
+    "name": "nose",
+    "group": "PB",
+    "tone": true
+  },
+  "🧠": {
+    "name": "brain",
+    "group": "PB"
+  },
+  "🫀": {
+    "name": "anatomical heart",
+    "group": "PB"
+  },
+  "🫁": {
+    "name": "lungs",
+    "group": "PB"
+  },
+  "🦷": {
+    "name": "tooth",
+    "group": "PB"
+  },
+  "🦴": {
+    "name": "bone",
+    "group": "PB"
+  },
+  "👀": {
+    "name": "eyes",
+    "group": "PB"
+  },
+  "👁️": {
+    "name": "eye",
+    "group": "PB"
+  },
+  "👅": {
+    "name": "tongue",
+    "group": "PB"
+  },
+  "👄": {
+    "name": "mouth",
+    "group": "PB"
+  },
+  "🫦": {
+    "name": "biting lip",
+    "group": "PB"
+  },
+  "👶": {
+    "name": "baby",
+    "group": "PB",
+    "tone": true
+  },
+  "🧒": {
+    "name": "child",
+    "group": "PB",
+    "tone": true
+  },
+  "👦": {
+    "name": "boy",
+    "group": "PB",
+    "tone": true
+  },
+  "👧": {
+    "name": "girl",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑": {
+    "name": "person",
+    "group": "PB",
+    "tone": true
+  },
+  "👱": {
+    "name": "person blond hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👨": {
+    "name": "man",
+    "group": "PB",
+    "tone": true
+  },
+  "🧔": {
+    "name": "person beard",
+    "group": "PB",
+    "tone": true
+  },
+  "🧔‍♂️": {
+    "name": "man beard",
+    "group": "PB",
+    "tone": true
+  },
+  "🧔‍♀️": {
+    "name": "woman beard",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦰": {
+    "name": "man red hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦱": {
+    "name": "man curly hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦳": {
+    "name": "man white hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦲": {
+    "name": "man bald",
+    "group": "PB",
+    "tone": true
+  },
+  "👩": {
+    "name": "woman",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦰": {
+    "name": "woman red hair",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦰": {
+    "name": "person red hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦱": {
+    "name": "woman curly hair",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦱": {
+    "name": "person curly hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦳": {
+    "name": "woman white hair",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦳": {
+    "name": "person white hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦲": {
+    "name": "woman bald",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦲": {
+    "name": "person bald",
+    "group": "PB",
+    "tone": true
+  },
+  "👱‍♀️": {
+    "name": "woman blond hair",
+    "group": "PB",
+    "tone": true
+  },
+  "👱‍♂️": {
+    "name": "man blond hair",
+    "group": "PB",
+    "tone": true
+  },
+  "🧓": {
+    "name": "older person",
+    "group": "PB",
+    "tone": true
+  },
+  "👴": {
+    "name": "old man",
+    "group": "PB",
+    "tone": true
+  },
+  "👵": {
+    "name": "old woman",
+    "group": "PB",
+    "tone": true
+  },
+  "🙍": {
+    "name": "person frowning",
+    "group": "PB",
+    "tone": true
+  },
+  "🙍‍♂️": {
+    "name": "man frowning",
+    "group": "PB",
+    "tone": true
+  },
+  "🙍‍♀️": {
+    "name": "woman frowning",
+    "group": "PB",
+    "tone": true
+  },
+  "🙎": {
+    "name": "person pouting",
+    "group": "PB",
+    "tone": true
+  },
+  "🙎‍♂️": {
+    "name": "man pouting",
+    "group": "PB",
+    "tone": true
+  },
+  "🙎‍♀️": {
+    "name": "woman pouting",
+    "group": "PB",
+    "tone": true
+  },
+  "🙅": {
+    "name": "person gesturing NO",
+    "group": "PB",
+    "tone": true
+  },
+  "🙅‍♂️": {
+    "name": "man gesturing NO",
+    "group": "PB",
+    "tone": true
+  },
+  "🙅‍♀️": {
+    "name": "woman gesturing NO",
+    "group": "PB",
+    "tone": true
+  },
+  "🙆": {
+    "name": "person gesturing OK",
+    "group": "PB",
+    "tone": true
+  },
+  "🙆‍♂️": {
+    "name": "man gesturing OK",
+    "group": "PB",
+    "tone": true
+  },
+  "🙆‍♀️": {
+    "name": "woman gesturing OK",
+    "group": "PB",
+    "tone": true
+  },
+  "💁": {
+    "name": "person tipping hand",
+    "group": "PB",
+    "tone": true
+  },
+  "💁‍♂️": {
+    "name": "man tipping hand",
+    "group": "PB",
+    "tone": true
+  },
+  "💁‍♀️": {
+    "name": "woman tipping hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🙋": {
+    "name": "person raising hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🙋‍♂️": {
+    "name": "man raising hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🙋‍♀️": {
+    "name": "woman raising hand",
+    "group": "PB",
+    "tone": true
+  },
+  "🧏": {
+    "name": "deaf person",
+    "group": "PB",
+    "tone": true
+  },
+  "🧏‍♂️": {
+    "name": "deaf man",
+    "group": "PB",
+    "tone": true
+  },
+  "🧏‍♀️": {
+    "name": "deaf woman",
+    "group": "PB",
+    "tone": true
+  },
+  "🙇": {
+    "name": "person bowing",
+    "group": "PB",
+    "tone": true
+  },
+  "🙇‍♂️": {
+    "name": "man bowing",
+    "group": "PB",
+    "tone": true
+  },
+  "🙇‍♀️": {
+    "name": "woman bowing",
+    "group": "PB",
+    "tone": true
+  },
+  "🤦": {
+    "name": "person facepalming",
+    "group": "PB",
+    "tone": true
+  },
+  "🤦‍♂️": {
+    "name": "man facepalming",
+    "group": "PB",
+    "tone": true
+  },
+  "🤦‍♀️": {
+    "name": "woman facepalming",
+    "group": "PB",
+    "tone": true
+  },
+  "🤷": {
+    "name": "person shrugging",
+    "group": "PB",
+    "tone": true
+  },
+  "🤷‍♂️": {
+    "name": "man shrugging",
+    "group": "PB",
+    "tone": true
+  },
+  "🤷‍♀️": {
+    "name": "woman shrugging",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍⚕️": {
+    "name": "health worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍⚕️": {
+    "name": "man health worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍⚕️": {
+    "name": "woman health worker",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🎓": {
+    "name": "student",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🎓": {
+    "name": "man student",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🎓": {
+    "name": "woman student",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🏫": {
+    "name": "teacher",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🏫": {
+    "name": "man teacher",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🏫": {
+    "name": "woman teacher",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍⚖️": {
+    "name": "judge",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍⚖️": {
+    "name": "man judge",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍⚖️": {
+    "name": "woman judge",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🌾": {
+    "name": "farmer",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🌾": {
+    "name": "man farmer",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🌾": {
+    "name": "woman farmer",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🍳": {
+    "name": "cook",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🍳": {
+    "name": "man cook",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🍳": {
+    "name": "woman cook",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🔧": {
+    "name": "mechanic",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🔧": {
+    "name": "man mechanic",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🔧": {
+    "name": "woman mechanic",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🏭": {
+    "name": "factory worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🏭": {
+    "name": "man factory worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🏭": {
+    "name": "woman factory worker",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍💼": {
+    "name": "office worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍💼": {
+    "name": "man office worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍💼": {
+    "name": "woman office worker",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🔬": {
+    "name": "scientist",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🔬": {
+    "name": "man scientist",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🔬": {
+    "name": "woman scientist",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍💻": {
+    "name": "technologist",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍💻": {
+    "name": "man technologist",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍💻": {
+    "name": "woman technologist",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🎤": {
+    "name": "singer",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🎤": {
+    "name": "man singer",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🎤": {
+    "name": "woman singer",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🎨": {
+    "name": "artist",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🎨": {
+    "name": "man artist",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🎨": {
+    "name": "woman artist",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍✈️": {
+    "name": "pilot",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍✈️": {
+    "name": "man pilot",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍✈️": {
+    "name": "woman pilot",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🚀": {
+    "name": "astronaut",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🚀": {
+    "name": "man astronaut",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🚀": {
+    "name": "woman astronaut",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🚒": {
+    "name": "firefighter",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🚒": {
+    "name": "man firefighter",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🚒": {
+    "name": "woman firefighter",
+    "group": "PB",
+    "tone": true
+  },
+  "👮": {
+    "name": "police officer",
+    "group": "PB",
+    "tone": true
+  },
+  "👮‍♂️": {
+    "name": "man police officer",
+    "group": "PB",
+    "tone": true
+  },
+  "👮‍♀️": {
+    "name": "woman police officer",
+    "group": "PB",
+    "tone": true
+  },
+  "🕵️": {
+    "name": "detective",
+    "group": "PB",
+    "tone": true
+  },
+  "🕵️‍♂️": {
+    "name": "man detective",
+    "group": "PB",
+    "tone": true
+  },
+  "🕵️‍♀️": {
+    "name": "woman detective",
+    "group": "PB",
+    "tone": true
+  },
+  "💂": {
+    "name": "guard",
+    "group": "PB",
+    "tone": true
+  },
+  "💂‍♂️": {
+    "name": "man guard",
+    "group": "PB",
+    "tone": true
+  },
+  "💂‍♀️": {
+    "name": "woman guard",
+    "group": "PB",
+    "tone": true
+  },
+  "🥷": {
+    "name": "ninja",
+    "group": "PB",
+    "tone": true
+  },
+  "👷": {
+    "name": "construction worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👷‍♂️": {
+    "name": "man construction worker",
+    "group": "PB",
+    "tone": true
+  },
+  "👷‍♀️": {
+    "name": "woman construction worker",
+    "group": "PB",
+    "tone": true
+  },
+  "🫅": {
+    "name": "person with crown",
+    "group": "PB",
+    "tone": true
+  },
+  "🤴": {
+    "name": "prince",
+    "group": "PB",
+    "tone": true
+  },
+  "👸": {
+    "name": "princess",
+    "group": "PB",
+    "tone": true
+  },
+  "👳": {
+    "name": "person wearing turban",
+    "group": "PB",
+    "tone": true
+  },
+  "👳‍♂️": {
+    "name": "man wearing turban",
+    "group": "PB",
+    "tone": true
+  },
+  "👳‍♀️": {
+    "name": "woman wearing turban",
+    "group": "PB",
+    "tone": true
+  },
+  "👲": {
+    "name": "person with skullcap",
+    "group": "PB",
+    "tone": true
+  },
+  "🧕": {
+    "name": "woman with headscarf",
+    "group": "PB",
+    "tone": true
+  },
+  "🤵": {
+    "name": "person in tuxedo",
+    "group": "PB",
+    "tone": true
+  },
+  "🤵‍♂️": {
+    "name": "man in tuxedo",
+    "group": "PB",
+    "tone": true
+  },
+  "🤵‍♀️": {
+    "name": "woman in tuxedo",
+    "group": "PB",
+    "tone": true
+  },
+  "👰": {
+    "name": "person with veil",
+    "group": "PB",
+    "tone": true
+  },
+  "👰‍♂️": {
+    "name": "man with veil",
+    "group": "PB",
+    "tone": true
+  },
+  "👰‍♀️": {
+    "name": "woman with veil",
+    "group": "PB",
+    "tone": true
+  },
+  "🤰": {
+    "name": "pregnant woman",
+    "group": "PB",
+    "tone": true
+  },
+  "🫃": {
+    "name": "pregnant man",
+    "group": "PB",
+    "tone": true
+  },
+  "🫄": {
+    "name": "pregnant person",
+    "group": "PB",
+    "tone": true
+  },
+  "🤱": {
+    "name": "breast-feeding",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🍼": {
+    "name": "woman feeding baby",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🍼": {
+    "name": "man feeding baby",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🍼": {
+    "name": "person feeding baby",
+    "group": "PB",
+    "tone": true
+  },
+  "👼": {
+    "name": "baby angel",
+    "group": "PB",
+    "tone": true
+  },
+  "🎅": {
+    "name": "Santa Claus",
+    "group": "PB",
+    "tone": true
+  },
+  "🤶": {
+    "name": "Mrs. Claus",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🎄": {
+    "name": "mx claus",
+    "group": "PB",
+    "tone": true
+  },
+  "🦸": {
+    "name": "superhero",
+    "group": "PB",
+    "tone": true
+  },
+  "🦸‍♂️": {
+    "name": "man superhero",
+    "group": "PB",
+    "tone": true
+  },
+  "🦸‍♀️": {
+    "name": "woman superhero",
+    "group": "PB",
+    "tone": true
+  },
+  "🦹": {
+    "name": "supervillain",
+    "group": "PB",
+    "tone": true
+  },
+  "🦹‍♂️": {
+    "name": "man supervillain",
+    "group": "PB",
+    "tone": true
+  },
+  "🦹‍♀️": {
+    "name": "woman supervillain",
+    "group": "PB",
+    "tone": true
+  },
+  "🧙": {
+    "name": "mage",
+    "group": "PB",
+    "tone": true
+  },
+  "🧙‍♂️": {
+    "name": "man mage",
+    "group": "PB",
+    "tone": true
+  },
+  "🧙‍♀️": {
+    "name": "woman mage",
+    "group": "PB",
+    "tone": true
+  },
+  "🧚": {
+    "name": "fairy",
+    "group": "PB",
+    "tone": true
+  },
+  "🧚‍♂️": {
+    "name": "man fairy",
+    "group": "PB",
+    "tone": true
+  },
+  "🧚‍♀️": {
+    "name": "woman fairy",
+    "group": "PB",
+    "tone": true
+  },
+  "🧛": {
+    "name": "vampire",
+    "group": "PB",
+    "tone": true
+  },
+  "🧛‍♂️": {
+    "name": "man vampire",
+    "group": "PB",
+    "tone": true
+  },
+  "🧛‍♀️": {
+    "name": "woman vampire",
+    "group": "PB",
+    "tone": true
+  },
+  "🧜": {
+    "name": "merperson",
+    "group": "PB",
+    "tone": true
+  },
+  "🧜‍♂️": {
+    "name": "merman",
+    "group": "PB",
+    "tone": true
+  },
+  "🧜‍♀️": {
+    "name": "mermaid",
+    "group": "PB",
+    "tone": true
+  },
+  "🧝": {
+    "name": "elf",
+    "group": "PB",
+    "tone": true
+  },
+  "🧝‍♂️": {
+    "name": "man elf",
+    "group": "PB",
+    "tone": true
+  },
+  "🧝‍♀️": {
+    "name": "woman elf",
+    "group": "PB",
+    "tone": true
+  },
+  "🧞": {
+    "name": "genie",
+    "group": "PB"
+  },
+  "🧞‍♂️": {
+    "name": "man genie",
+    "group": "PB"
+  },
+  "🧞‍♀️": {
+    "name": "woman genie",
+    "group": "PB"
+  },
+  "🧟": {
+    "name": "zombie",
+    "group": "PB"
+  },
+  "🧟‍♂️": {
+    "name": "man zombie",
+    "group": "PB"
+  },
+  "🧟‍♀️": {
+    "name": "woman zombie",
+    "group": "PB"
+  },
+  "🧌": {
+    "name": "troll",
+    "group": "PB"
+  },
+  "💆": {
+    "name": "person getting massage",
+    "group": "PB",
+    "tone": true
+  },
+  "💆‍♂️": {
+    "name": "man getting massage",
+    "group": "PB",
+    "tone": true
+  },
+  "💆‍♀️": {
+    "name": "woman getting massage",
+    "group": "PB",
+    "tone": true
+  },
+  "💇": {
+    "name": "person getting haircut",
+    "group": "PB",
+    "tone": true
+  },
+  "💇‍♂️": {
+    "name": "man getting haircut",
+    "group": "PB",
+    "tone": true
+  },
+  "💇‍♀️": {
+    "name": "woman getting haircut",
+    "group": "PB",
+    "tone": true
+  },
+  "🚶": {
+    "name": "person walking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚶‍♂️": {
+    "name": "man walking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚶‍♀️": {
+    "name": "woman walking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚶‍➡️": {
+    "name": "person walking facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🚶‍♀️‍➡️": {
+    "name": "woman walking facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🚶‍♂️‍➡️": {
+    "name": "man walking facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🧍": {
+    "name": "person standing",
+    "group": "PB",
+    "tone": true
+  },
+  "🧍‍♂️": {
+    "name": "man standing",
+    "group": "PB",
+    "tone": true
+  },
+  "🧍‍♀️": {
+    "name": "woman standing",
+    "group": "PB",
+    "tone": true
+  },
+  "🧎": {
+    "name": "person kneeling",
+    "group": "PB",
+    "tone": true
+  },
+  "🧎‍♂️": {
+    "name": "man kneeling",
+    "group": "PB",
+    "tone": true
+  },
+  "🧎‍♀️": {
+    "name": "woman kneeling",
+    "group": "PB",
+    "tone": true
+  },
+  "🧎‍➡️": {
+    "name": "person kneeling facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🧎‍♀️‍➡️": {
+    "name": "woman kneeling facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🧎‍♂️‍➡️": {
+    "name": "man kneeling facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦯": {
+    "name": "person with white cane",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦯‍➡️": {
+    "name": "person with white cane facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦯": {
+    "name": "man with white cane",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦯‍➡️": {
+    "name": "man with white cane facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦯": {
+    "name": "woman with white cane",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦯‍➡️": {
+    "name": "woman with white cane facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦼": {
+    "name": "person in motorized wheelchair",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦼‍➡️": {
+    "name": "person in motorized wheelchair facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦼": {
+    "name": "man in motorized wheelchair",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦼‍➡️": {
+    "name": "man in motorized wheelchair facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦼": {
+    "name": "woman in motorized wheelchair",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦼‍➡️": {
+    "name": "woman in motorized wheelchair facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦽": {
+    "name": "person in manual wheelchair",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🦽‍➡️": {
+    "name": "person in manual wheelchair facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦽": {
+    "name": "man in manual wheelchair",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍🦽‍➡️": {
+    "name": "man in manual wheelchair facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦽": {
+    "name": "woman in manual wheelchair",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍🦽‍➡️": {
+    "name": "woman in manual wheelchair facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🏃": {
+    "name": "person running",
+    "group": "PB",
+    "tone": true
+  },
+  "🏃‍♂️": {
+    "name": "man running",
+    "group": "PB",
+    "tone": true
+  },
+  "🏃‍♀️": {
+    "name": "woman running",
+    "group": "PB",
+    "tone": true
+  },
+  "🏃‍➡️": {
+    "name": "person running facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🏃‍♀️‍➡️": {
+    "name": "woman running facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "🏃‍♂️‍➡️": {
+    "name": "man running facing right",
+    "group": "PB",
+    "tone": true
+  },
+  "💃": {
+    "name": "woman dancing",
+    "group": "PB",
+    "tone": true
+  },
+  "🕺": {
+    "name": "man dancing",
+    "group": "PB",
+    "tone": true
+  },
+  "🕴️": {
+    "name": "person in suit levitating",
+    "group": "PB",
+    "tone": true
+  },
+  "👯": {
+    "name": "people with bunny ears",
+    "group": "PB"
+  },
+  "👯‍♂️": {
+    "name": "men with bunny ears",
+    "group": "PB"
+  },
+  "👯‍♀️": {
+    "name": "women with bunny ears",
+    "group": "PB"
+  },
+  "🧖": {
+    "name": "person in steamy room",
+    "group": "PB",
+    "tone": true
+  },
+  "🧖‍♂️": {
+    "name": "man in steamy room",
+    "group": "PB",
+    "tone": true
+  },
+  "🧖‍♀️": {
+    "name": "woman in steamy room",
+    "group": "PB",
+    "tone": true
+  },
+  "🧗": {
+    "name": "person climbing",
+    "group": "PB",
+    "tone": true
+  },
+  "🧗‍♂️": {
+    "name": "man climbing",
+    "group": "PB",
+    "tone": true
+  },
+  "🧗‍♀️": {
+    "name": "woman climbing",
+    "group": "PB",
+    "tone": true
+  },
+  "🤺": {
+    "name": "person fencing",
+    "group": "PB"
+  },
+  "🏇": {
+    "name": "horse racing",
+    "group": "PB",
+    "tone": true
+  },
+  "⛷️": {
+    "name": "skier",
+    "group": "PB"
+  },
+  "🏂": {
+    "name": "snowboarder",
+    "group": "PB",
+    "tone": true
+  },
+  "🏌️": {
+    "name": "person golfing",
+    "group": "PB",
+    "tone": true
+  },
+  "🏌️‍♂️": {
+    "name": "man golfing",
+    "group": "PB",
+    "tone": true
+  },
+  "🏌️‍♀️": {
+    "name": "woman golfing",
+    "group": "PB",
+    "tone": true
+  },
+  "🏄": {
+    "name": "person surfing",
+    "group": "PB",
+    "tone": true
+  },
+  "🏄‍♂️": {
+    "name": "man surfing",
+    "group": "PB",
+    "tone": true
+  },
+  "🏄‍♀️": {
+    "name": "woman surfing",
+    "group": "PB",
+    "tone": true
+  },
+  "🚣": {
+    "name": "person rowing boat",
+    "group": "PB",
+    "tone": true
+  },
+  "🚣‍♂️": {
+    "name": "man rowing boat",
+    "group": "PB",
+    "tone": true
+  },
+  "🚣‍♀️": {
+    "name": "woman rowing boat",
+    "group": "PB",
+    "tone": true
+  },
+  "🏊": {
+    "name": "person swimming",
+    "group": "PB",
+    "tone": true
+  },
+  "🏊‍♂️": {
+    "name": "man swimming",
+    "group": "PB",
+    "tone": true
+  },
+  "🏊‍♀️": {
+    "name": "woman swimming",
+    "group": "PB",
+    "tone": true
+  },
+  "⛹️": {
+    "name": "person bouncing ball",
+    "group": "PB",
+    "tone": true
+  },
+  "⛹️‍♂️": {
+    "name": "man bouncing ball",
+    "group": "PB",
+    "tone": true
+  },
+  "⛹️‍♀️": {
+    "name": "woman bouncing ball",
+    "group": "PB",
+    "tone": true
+  },
+  "🏋️": {
+    "name": "person lifting weights",
+    "group": "PB",
+    "tone": true
+  },
+  "🏋️‍♂️": {
+    "name": "man lifting weights",
+    "group": "PB",
+    "tone": true
+  },
+  "🏋️‍♀️": {
+    "name": "woman lifting weights",
+    "group": "PB",
+    "tone": true
+  },
+  "🚴": {
+    "name": "person biking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚴‍♂️": {
+    "name": "man biking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚴‍♀️": {
+    "name": "woman biking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚵": {
+    "name": "person mountain biking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚵‍♂️": {
+    "name": "man mountain biking",
+    "group": "PB",
+    "tone": true
+  },
+  "🚵‍♀️": {
+    "name": "woman mountain biking",
+    "group": "PB",
+    "tone": true
+  },
+  "🤸": {
+    "name": "person cartwheeling",
+    "group": "PB",
+    "tone": true
+  },
+  "🤸‍♂️": {
+    "name": "man cartwheeling",
+    "group": "PB",
+    "tone": true
+  },
+  "🤸‍♀️": {
+    "name": "woman cartwheeling",
+    "group": "PB",
+    "tone": true
+  },
+  "🤼": {
+    "name": "people wrestling",
+    "group": "PB"
+  },
+  "🤼‍♂️": {
+    "name": "men wrestling",
+    "group": "PB"
+  },
+  "🤼‍♀️": {
+    "name": "women wrestling",
+    "group": "PB"
+  },
+  "🤽": {
+    "name": "person playing water polo",
+    "group": "PB",
+    "tone": true
+  },
+  "🤽‍♂️": {
+    "name": "man playing water polo",
+    "group": "PB",
+    "tone": true
+  },
+  "🤽‍♀️": {
+    "name": "woman playing water polo",
+    "group": "PB",
+    "tone": true
+  },
+  "🤾": {
+    "name": "person playing handball",
+    "group": "PB",
+    "tone": true
+  },
+  "🤾‍♂️": {
+    "name": "man playing handball",
+    "group": "PB",
+    "tone": true
+  },
+  "🤾‍♀️": {
+    "name": "woman playing handball",
+    "group": "PB",
+    "tone": true
+  },
+  "🤹": {
+    "name": "person juggling",
+    "group": "PB",
+    "tone": true
+  },
+  "🤹‍♂️": {
+    "name": "man juggling",
+    "group": "PB",
+    "tone": true
+  },
+  "🤹‍♀️": {
+    "name": "woman juggling",
+    "group": "PB",
+    "tone": true
+  },
+  "🧘": {
+    "name": "person in lotus position",
+    "group": "PB",
+    "tone": true
+  },
+  "🧘‍♂️": {
+    "name": "man in lotus position",
+    "group": "PB",
+    "tone": true
+  },
+  "🧘‍♀️": {
+    "name": "woman in lotus position",
+    "group": "PB",
+    "tone": true
+  },
+  "🛀": {
+    "name": "person taking bath",
+    "group": "PB",
+    "tone": true
+  },
+  "🛌": {
+    "name": "person in bed",
+    "group": "PB",
+    "tone": true
+  },
+  "🧑‍🤝‍🧑": {
+    "name": "people holding hands",
+    "group": "PB",
+    "tone": true
+  },
+  "👭": {
+    "name": "women holding hands",
+    "group": "PB",
+    "tone": true
+  },
+  "👫": {
+    "name": "woman and man holding hands",
+    "group": "PB",
+    "tone": true
+  },
+  "👬": {
+    "name": "men holding hands",
+    "group": "PB",
+    "tone": true
+  },
+  "💏": {
+    "name": "kiss",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍❤️‍💋‍👨": {
+    "name": "kiss woman, man",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍❤️‍💋‍👨": {
+    "name": "kiss man, man",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍❤️‍💋‍👩": {
+    "name": "kiss woman, woman",
+    "group": "PB",
+    "tone": true
+  },
+  "💑": {
+    "name": "couple with heart",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍❤️‍👨": {
+    "name": "couple with heart woman, man",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍❤️‍👨": {
+    "name": "couple with heart man, man",
+    "group": "PB",
+    "tone": true
+  },
+  "👩‍❤️‍👩": {
+    "name": "couple with heart woman, woman",
+    "group": "PB",
+    "tone": true
+  },
+  "👨‍👩‍👦": {
+    "name": "family man, woman, boy",
+    "group": "PB"
+  },
+  "👨‍👩‍👧": {
+    "name": "family man, woman, girl",
+    "group": "PB"
+  },
+  "👨‍👩‍👧‍👦": {
+    "name": "family man, woman, girl, boy",
+    "group": "PB"
+  },
+  "👨‍👩‍👦‍👦": {
+    "name": "family man, woman, boy, boy",
+    "group": "PB"
+  },
+  "👨‍👩‍👧‍👧": {
+    "name": "family man, woman, girl, girl",
+    "group": "PB"
+  },
+  "👨‍👨‍👦": {
+    "name": "family man, man, boy",
+    "group": "PB"
+  },
+  "👨‍👨‍👧": {
+    "name": "family man, man, girl",
+    "group": "PB"
+  },
+  "👨‍👨‍👧‍👦": {
+    "name": "family man, man, girl, boy",
+    "group": "PB"
+  },
+  "👨‍👨‍👦‍👦": {
+    "name": "family man, man, boy, boy",
+    "group": "PB"
+  },
+  "👨‍👨‍👧‍👧": {
+    "name": "family man, man, girl, girl",
+    "group": "PB"
+  },
+  "👩‍👩‍👦": {
+    "name": "family woman, woman, boy",
+    "group": "PB"
+  },
+  "👩‍👩‍👧": {
+    "name": "family woman, woman, girl",
+    "group": "PB"
+  },
+  "👩‍👩‍👧‍👦": {
+    "name": "family woman, woman, girl, boy",
+    "group": "PB"
+  },
+  "👩‍👩‍👦‍👦": {
+    "name": "family woman, woman, boy, boy",
+    "group": "PB"
+  },
+  "👩‍👩‍👧‍👧": {
+    "name": "family woman, woman, girl, girl",
+    "group": "PB"
+  },
+  "👨‍👦": {
+    "name": "family man, boy",
+    "group": "PB"
+  },
+  "👨‍👦‍👦": {
+    "name": "family man, boy, boy",
+    "group": "PB"
+  },
+  "👨‍👧": {
+    "name": "family man, girl",
+    "group": "PB"
+  },
+  "👨‍👧‍👦": {
+    "name": "family man, girl, boy",
+    "group": "PB"
+  },
+  "👨‍👧‍👧": {
+    "name": "family man, girl, girl",
+    "group": "PB"
+  },
+  "👩‍👦": {
+    "name": "family woman, boy",
+    "group": "PB"
+  },
+  "👩‍👦‍👦": {
+    "name": "family woman, boy, boy",
+    "group": "PB"
+  },
+  "👩‍👧": {
+    "name": "family woman, girl",
+    "group": "PB"
+  },
+  "👩‍👧‍👦": {
+    "name": "family woman, girl, boy",
+    "group": "PB"
+  },
+  "👩‍👧‍👧": {
+    "name": "family woman, girl, girl",
+    "group": "PB"
+  },
+  "🗣️": {
+    "name": "speaking head",
+    "group": "PB"
+  },
+  "👤": {
+    "name": "bust in silhouette",
+    "group": "PB"
+  },
+  "👥": {
+    "name": "busts in silhouette",
+    "group": "PB"
+  },
+  "🫂": {
+    "name": "people hugging",
+    "group": "PB"
+  },
+  "👪": {
+    "name": "family",
+    "group": "PB"
+  },
+  "🧑‍🧑‍🧒": {
+    "name": "family adult, adult, child",
+    "group": "PB"
+  },
+  "🧑‍🧑‍🧒‍🧒": {
+    "name": "family adult, adult, child, child",
+    "group": "PB"
+  },
+  "🧑‍🧒": {
+    "name": "family adult, child",
+    "group": "PB"
+  },
+  "🧑‍🧒‍🧒": {
+    "name": "family adult, child, child",
+    "group": "PB"
+  },
+  "👣": {
+    "name": "footprints",
+    "group": "PB"
+  },
+  "🐵": {
+    "name": "monkey face",
+    "group": "AN"
+  },
+  "🐒": {
+    "name": "monkey",
+    "group": "AN"
+  },
+  "🦍": {
+    "name": "gorilla",
+    "group": "AN"
+  },
+  "🦧": {
+    "name": "orangutan",
+    "group": "AN"
+  },
+  "🐶": {
+    "name": "dog face",
+    "group": "AN"
+  },
+  "🐕": {
+    "name": "dog",
+    "group": "AN"
+  },
+  "🦮": {
+    "name": "guide dog",
+    "group": "AN"
+  },
+  "🐕‍🦺": {
+    "name": "service dog",
+    "group": "AN"
+  },
+  "🐩": {
+    "name": "poodle",
+    "group": "AN"
+  },
+  "🐺": {
+    "name": "wolf",
+    "group": "AN"
+  },
+  "🦊": {
+    "name": "fox",
+    "group": "AN"
+  },
+  "🦝": {
+    "name": "raccoon",
+    "group": "AN"
+  },
+  "🐱": {
+    "name": "cat face",
+    "group": "AN"
+  },
+  "🐈": {
+    "name": "cat",
+    "group": "AN"
+  },
+  "🐈‍⬛": {
+    "name": "black cat",
+    "group": "AN"
+  },
+  "🦁": {
+    "name": "lion",
+    "group": "AN"
+  },
+  "🐯": {
+    "name": "tiger face",
+    "group": "AN"
+  },
+  "🐅": {
+    "name": "tiger",
+    "group": "AN"
+  },
+  "🐆": {
+    "name": "leopard",
+    "group": "AN"
+  },
+  "🐴": {
+    "name": "horse face",
+    "group": "AN"
+  },
+  "🫎": {
+    "name": "moose",
+    "group": "AN"
+  },
+  "🫏": {
+    "name": "donkey",
+    "group": "AN"
+  },
+  "🐎": {
+    "name": "horse",
+    "group": "AN"
+  },
+  "🦄": {
+    "name": "unicorn",
+    "group": "AN"
+  },
+  "🦓": {
+    "name": "zebra",
+    "group": "AN"
+  },
+  "🦌": {
+    "name": "deer",
+    "group": "AN"
+  },
+  "🦬": {
+    "name": "bison",
+    "group": "AN"
+  },
+  "🐮": {
+    "name": "cow face",
+    "group": "AN"
+  },
+  "🐂": {
+    "name": "ox",
+    "group": "AN"
+  },
+  "🐃": {
+    "name": "water buffalo",
+    "group": "AN"
+  },
+  "🐄": {
+    "name": "cow",
+    "group": "AN"
+  },
+  "🐷": {
+    "name": "pig face",
+    "group": "AN"
+  },
+  "🐖": {
+    "name": "pig",
+    "group": "AN"
+  },
+  "🐗": {
+    "name": "boar",
+    "group": "AN"
+  },
+  "🐽": {
+    "name": "pig nose",
+    "group": "AN"
+  },
+  "🐏": {
+    "name": "ram",
+    "group": "AN"
+  },
+  "🐑": {
+    "name": "ewe",
+    "group": "AN"
+  },
+  "🐐": {
+    "name": "goat",
+    "group": "AN"
+  },
+  "🐪": {
+    "name": "camel",
+    "group": "AN"
+  },
+  "🐫": {
+    "name": "two-hump camel",
+    "group": "AN"
+  },
+  "🦙": {
+    "name": "llama",
+    "group": "AN"
+  },
+  "🦒": {
+    "name": "giraffe",
+    "group": "AN"
+  },
+  "🐘": {
+    "name": "elephant",
+    "group": "AN"
+  },
+  "🦣": {
+    "name": "mammoth",
+    "group": "AN"
+  },
+  "🦏": {
+    "name": "rhinoceros",
+    "group": "AN"
+  },
+  "🦛": {
+    "name": "hippopotamus",
+    "group": "AN"
+  },
+  "🐭": {
+    "name": "mouse face",
+    "group": "AN"
+  },
+  "🐁": {
+    "name": "mouse",
+    "group": "AN"
+  },
+  "🐀": {
+    "name": "rat",
+    "group": "AN"
+  },
+  "🐹": {
+    "name": "hamster",
+    "group": "AN"
+  },
+  "🐰": {
+    "name": "rabbit face",
+    "group": "AN"
+  },
+  "🐇": {
+    "name": "rabbit",
+    "group": "AN"
+  },
+  "🐿️": {
+    "name": "chipmunk",
+    "group": "AN"
+  },
+  "🦫": {
+    "name": "beaver",
+    "group": "AN"
+  },
+  "🦔": {
+    "name": "hedgehog",
+    "group": "AN"
+  },
+  "🦇": {
+    "name": "bat",
+    "group": "AN"
+  },
+  "🐻": {
+    "name": "bear",
+    "group": "AN"
+  },
+  "🐻‍❄️": {
+    "name": "polar bear",
+    "group": "AN"
+  },
+  "🐨": {
+    "name": "koala",
+    "group": "AN"
+  },
+  "🐼": {
+    "name": "panda",
+    "group": "AN"
+  },
+  "🦥": {
+    "name": "sloth",
+    "group": "AN"
+  },
+  "🦦": {
+    "name": "otter",
+    "group": "AN"
+  },
+  "🦨": {
+    "name": "skunk",
+    "group": "AN"
+  },
+  "🦘": {
+    "name": "kangaroo",
+    "group": "AN"
+  },
+  "🦡": {
+    "name": "badger",
+    "group": "AN"
+  },
+  "🐾": {
+    "name": "paw prints",
+    "group": "AN"
+  },
+  "🦃": {
+    "name": "turkey",
+    "group": "AN"
+  },
+  "🐔": {
+    "name": "chicken",
+    "group": "AN"
+  },
+  "🐓": {
+    "name": "rooster",
+    "group": "AN"
+  },
+  "🐣": {
+    "name": "hatching chick",
+    "group": "AN"
+  },
+  "🐤": {
+    "name": "baby chick",
+    "group": "AN"
+  },
+  "🐥": {
+    "name": "front-facing baby chick",
+    "group": "AN"
+  },
+  "🐦": {
+    "name": "bird",
+    "group": "AN"
+  },
+  "🐧": {
+    "name": "penguin",
+    "group": "AN"
+  },
+  "🕊️": {
+    "name": "dove",
+    "group": "AN"
+  },
+  "🦅": {
+    "name": "eagle",
+    "group": "AN"
+  },
+  "🦆": {
+    "name": "duck",
+    "group": "AN"
+  },
+  "🦢": {
+    "name": "swan",
+    "group": "AN"
+  },
+  "🦉": {
+    "name": "owl",
+    "group": "AN"
+  },
+  "🦤": {
+    "name": "dodo",
+    "group": "AN"
+  },
+  "🪶": {
+    "name": "feather",
+    "group": "AN"
+  },
+  "🦩": {
+    "name": "flamingo",
+    "group": "AN"
+  },
+  "🦚": {
+    "name": "peacock",
+    "group": "AN"
+  },
+  "🦜": {
+    "name": "parrot",
+    "group": "AN"
+  },
+  "🪽": {
+    "name": "wing",
+    "group": "AN"
+  },
+  "🐦‍⬛": {
+    "name": "black bird",
+    "group": "AN"
+  },
+  "🪿": {
+    "name": "goose",
+    "group": "AN"
+  },
+  "🐦‍🔥": {
+    "name": "phoenix",
+    "group": "AN"
+  },
+  "🐸": {
+    "name": "frog",
+    "group": "AN"
+  },
+  "🐊": {
+    "name": "crocodile",
+    "group": "AN"
+  },
+  "🐢": {
+    "name": "turtle",
+    "group": "AN"
+  },
+  "🦎": {
+    "name": "lizard",
+    "group": "AN"
+  },
+  "🐍": {
+    "name": "snake",
+    "group": "AN"
+  },
+  "🐲": {
+    "name": "dragon face",
+    "group": "AN"
+  },
+  "🐉": {
+    "name": "dragon",
+    "group": "AN"
+  },
+  "🦕": {
+    "name": "sauropod",
+    "group": "AN"
+  },
+  "🦖": {
+    "name": "T-Rex",
+    "group": "AN"
+  },
+  "🐳": {
+    "name": "spouting whale",
+    "group": "AN"
+  },
+  "🐋": {
+    "name": "whale",
+    "group": "AN"
+  },
+  "🐬": {
+    "name": "dolphin",
+    "group": "AN"
+  },
+  "🦭": {
+    "name": "seal",
+    "group": "AN"
+  },
+  "🐟": {
+    "name": "fish",
+    "group": "AN"
+  },
+  "🐠": {
+    "name": "tropical fish",
+    "group": "AN"
+  },
+  "🐡": {
+    "name": "blowfish",
+    "group": "AN"
+  },
+  "🦈": {
+    "name": "shark",
+    "group": "AN"
+  },
+  "🐙": {
+    "name": "octopus",
+    "group": "AN"
+  },
+  "🐚": {
+    "name": "spiral shell",
+    "group": "AN"
+  },
+  "🪸": {
+    "name": "coral",
+    "group": "AN"
+  },
+  "🪼": {
+    "name": "jellyfish",
+    "group": "AN"
+  },
+  "🐌": {
+    "name": "snail",
+    "group": "AN"
+  },
+  "🦋": {
+    "name": "butterfly",
+    "group": "AN"
+  },
+  "🐛": {
+    "name": "bug",
+    "group": "AN"
+  },
+  "🐜": {
+    "name": "ant",
+    "group": "AN"
+  },
+  "🐝": {
+    "name": "honeybee",
+    "group": "AN"
+  },
+  "🪲": {
+    "name": "beetle",
+    "group": "AN"
+  },
+  "🐞": {
+    "name": "lady beetle",
+    "group": "AN"
+  },
+  "🦗": {
+    "name": "cricket",
+    "group": "AN"
+  },
+  "🪳": {
+    "name": "cockroach",
+    "group": "AN"
+  },
+  "🕷️": {
+    "name": "spider",
+    "group": "AN"
+  },
+  "🕸️": {
+    "name": "spider web",
+    "group": "AN"
+  },
+  "🦂": {
+    "name": "scorpion",
+    "group": "AN"
+  },
+  "🦟": {
+    "name": "mosquito",
+    "group": "AN"
+  },
+  "🪰": {
+    "name": "fly",
+    "group": "AN"
+  },
+  "🪱": {
+    "name": "worm",
+    "group": "AN"
+  },
+  "🦠": {
+    "name": "microbe",
+    "group": "AN"
+  },
+  "💐": {
+    "name": "bouquet",
+    "group": "AN"
+  },
+  "🌸": {
+    "name": "cherry blossom",
+    "group": "AN"
+  },
+  "💮": {
+    "name": "white flower",
+    "group": "AN"
+  },
+  "🪷": {
+    "name": "lotus",
+    "group": "AN"
+  },
+  "🏵️": {
+    "name": "rosette",
+    "group": "AN"
+  },
+  "🌹": {
+    "name": "rose",
+    "group": "AN"
+  },
+  "🥀": {
+    "name": "wilted flower",
+    "group": "AN"
+  },
+  "🌺": {
+    "name": "hibiscus",
+    "group": "AN"
+  },
+  "🌻": {
+    "name": "sunflower",
+    "group": "AN"
+  },
+  "🌼": {
+    "name": "blossom",
+    "group": "AN"
+  },
+  "🌷": {
+    "name": "tulip",
+    "group": "AN"
+  },
+  "🪻": {
+    "name": "hyacinth",
+    "group": "AN"
+  },
+  "🌱": {
+    "name": "seedling",
+    "group": "AN"
+  },
+  "🪴": {
+    "name": "potted plant",
+    "group": "AN"
+  },
+  "🌲": {
+    "name": "evergreen tree",
+    "group": "AN"
+  },
+  "🌳": {
+    "name": "deciduous tree",
+    "group": "AN"
+  },
+  "🌴": {
+    "name": "palm tree",
+    "group": "AN"
+  },
+  "🌵": {
+    "name": "cactus",
+    "group": "AN"
+  },
+  "🌾": {
+    "name": "sheaf of rice",
+    "group": "AN"
+  },
+  "🌿": {
+    "name": "herb",
+    "group": "AN"
+  },
+  "☘️": {
+    "name": "shamrock",
+    "group": "AN"
+  },
+  "🍀": {
+    "name": "four leaf clover",
+    "group": "AN"
+  },
+  "🍁": {
+    "name": "maple leaf",
+    "group": "AN"
+  },
+  "🍂": {
+    "name": "fallen leaf",
+    "group": "AN"
+  },
+  "🍃": {
+    "name": "leaf fluttering in wind",
+    "group": "AN"
+  },
+  "🪹": {
+    "name": "empty nest",
+    "group": "AN"
+  },
+  "🪺": {
+    "name": "nest with eggs",
+    "group": "AN"
+  },
+  "🍄": {
+    "name": "mushroom",
+    "group": "AN"
+  },
+  "🍇": {
+    "name": "grapes",
+    "group": "FD"
+  },
+  "🍈": {
+    "name": "melon",
+    "group": "FD"
+  },
+  "🍉": {
+    "name": "watermelon",
+    "group": "FD"
+  },
+  "🍊": {
+    "name": "tangerine",
+    "group": "FD"
+  },
+  "🍋": {
+    "name": "lemon",
+    "group": "FD"
+  },
+  "🍋‍🟩": {
+    "name": "lime",
+    "group": "FD"
+  },
+  "🍌": {
+    "name": "banana",
+    "group": "FD"
+  },
+  "🍍": {
+    "name": "pineapple",
+    "group": "FD"
+  },
+  "🥭": {
+    "name": "mango",
+    "group": "FD"
+  },
+  "🍎": {
+    "name": "red apple",
+    "group": "FD"
+  },
+  "🍏": {
+    "name": "green apple",
+    "group": "FD"
+  },
+  "🍐": {
+    "name": "pear",
+    "group": "FD"
+  },
+  "🍑": {
+    "name": "peach",
+    "group": "FD"
+  },
+  "🍒": {
+    "name": "cherries",
+    "group": "FD"
+  },
+  "🍓": {
+    "name": "strawberry",
+    "group": "FD"
+  },
+  "🫐": {
+    "name": "blueberries",
+    "group": "FD"
+  },
+  "🥝": {
+    "name": "kiwi fruit",
+    "group": "FD"
+  },
+  "🍅": {
+    "name": "tomato",
+    "group": "FD"
+  },
+  "🫒": {
+    "name": "olive",
+    "group": "FD"
+  },
+  "🥥": {
+    "name": "coconut",
+    "group": "FD"
+  },
+  "🥑": {
+    "name": "avocado",
+    "group": "FD"
+  },
+  "🍆": {
+    "name": "eggplant",
+    "group": "FD"
+  },
+  "🥔": {
+    "name": "potato",
+    "group": "FD"
+  },
+  "🥕": {
+    "name": "carrot",
+    "group": "FD"
+  },
+  "🌽": {
+    "name": "ear of corn",
+    "group": "FD"
+  },
+  "🌶️": {
+    "name": "hot pepper",
+    "group": "FD"
+  },
+  "🫑": {
+    "name": "bell pepper",
+    "group": "FD"
+  },
+  "🥒": {
+    "name": "cucumber",
+    "group": "FD"
+  },
+  "🥬": {
+    "name": "leafy green",
+    "group": "FD"
+  },
+  "🥦": {
+    "name": "broccoli",
+    "group": "FD"
+  },
+  "🧄": {
+    "name": "garlic",
+    "group": "FD"
+  },
+  "🧅": {
+    "name": "onion",
+    "group": "FD"
+  },
+  "🥜": {
+    "name": "peanuts",
+    "group": "FD"
+  },
+  "🫘": {
+    "name": "beans",
+    "group": "FD"
+  },
+  "🌰": {
+    "name": "chestnut",
+    "group": "FD"
+  },
+  "🫚": {
+    "name": "ginger root",
+    "group": "FD"
+  },
+  "🫛": {
+    "name": "pea pod",
+    "group": "FD"
+  },
+  "🍄‍🟫": {
+    "name": "brown mushroom",
+    "group": "FD"
+  },
+  "🍞": {
+    "name": "bread",
+    "group": "FD"
+  },
+  "🥐": {
+    "name": "croissant",
+    "group": "FD"
+  },
+  "🥖": {
+    "name": "baguette bread",
+    "group": "FD"
+  },
+  "🫓": {
+    "name": "flatbread",
+    "group": "FD"
+  },
+  "🥨": {
+    "name": "pretzel",
+    "group": "FD"
+  },
+  "🥯": {
+    "name": "bagel",
+    "group": "FD"
+  },
+  "🥞": {
+    "name": "pancakes",
+    "group": "FD"
+  },
+  "🧇": {
+    "name": "waffle",
+    "group": "FD"
+  },
+  "🧀": {
+    "name": "cheese wedge",
+    "group": "FD"
+  },
+  "🍖": {
+    "name": "meat on bone",
+    "group": "FD"
+  },
+  "🍗": {
+    "name": "poultry leg",
+    "group": "FD"
+  },
+  "🥩": {
+    "name": "cut of meat",
+    "group": "FD"
+  },
+  "🥓": {
+    "name": "bacon",
+    "group": "FD"
+  },
+  "🍔": {
+    "name": "hamburger",
+    "group": "FD"
+  },
+  "🍟": {
+    "name": "french fries",
+    "group": "FD"
+  },
+  "🍕": {
+    "name": "pizza",
+    "group": "FD"
+  },
+  "🌭": {
+    "name": "hot dog",
+    "group": "FD"
+  },
+  "🥪": {
+    "name": "sandwich",
+    "group": "FD"
+  },
+  "🌮": {
+    "name": "taco",
+    "group": "FD"
+  },
+  "🌯": {
+    "name": "burrito",
+    "group": "FD"
+  },
+  "🫔": {
+    "name": "tamale",
+    "group": "FD"
+  },
+  "🥙": {
+    "name": "stuffed flatbread",
+    "group": "FD"
+  },
+  "🧆": {
+    "name": "falafel",
+    "group": "FD"
+  },
+  "🥚": {
+    "name": "egg",
+    "group": "FD"
+  },
+  "🍳": {
+    "name": "cooking",
+    "group": "FD"
+  },
+  "🥘": {
+    "name": "shallow pan of food",
+    "group": "FD"
+  },
+  "🍲": {
+    "name": "pot of food",
+    "group": "FD"
+  },
+  "🫕": {
+    "name": "fondue",
+    "group": "FD"
+  },
+  "🥣": {
+    "name": "bowl with spoon",
+    "group": "FD"
+  },
+  "🥗": {
+    "name": "green salad",
+    "group": "FD"
+  },
+  "🍿": {
+    "name": "popcorn",
+    "group": "FD"
+  },
+  "🧈": {
+    "name": "butter",
+    "group": "FD"
+  },
+  "🧂": {
+    "name": "salt",
+    "group": "FD"
+  },
+  "🥫": {
+    "name": "canned food",
+    "group": "FD"
+  },
+  "🍱": {
+    "name": "bento box",
+    "group": "FD"
+  },
+  "🍘": {
+    "name": "rice cracker",
+    "group": "FD"
+  },
+  "🍙": {
+    "name": "rice ball",
+    "group": "FD"
+  },
+  "🍚": {
+    "name": "cooked rice",
+    "group": "FD"
+  },
+  "🍛": {
+    "name": "curry rice",
+    "group": "FD"
+  },
+  "🍜": {
+    "name": "steaming bowl",
+    "group": "FD"
+  },
+  "🍝": {
+    "name": "spaghetti",
+    "group": "FD"
+  },
+  "🍠": {
+    "name": "roasted sweet potato",
+    "group": "FD"
+  },
+  "🍢": {
+    "name": "oden",
+    "group": "FD"
+  },
+  "🍣": {
+    "name": "sushi",
+    "group": "FD"
+  },
+  "🍤": {
+    "name": "fried shrimp",
+    "group": "FD"
+  },
+  "🍥": {
+    "name": "fish cake with swirl",
+    "group": "FD"
+  },
+  "🥮": {
+    "name": "moon cake",
+    "group": "FD"
+  },
+  "🍡": {
+    "name": "dango",
+    "group": "FD"
+  },
+  "🥟": {
+    "name": "dumpling",
+    "group": "FD"
+  },
+  "🥠": {
+    "name": "fortune cookie",
+    "group": "FD"
+  },
+  "🥡": {
+    "name": "takeout box",
+    "group": "FD"
+  },
+  "🦀": {
+    "name": "crab",
+    "group": "FD"
+  },
+  "🦞": {
+    "name": "lobster",
+    "group": "FD"
+  },
+  "🦐": {
+    "name": "shrimp",
+    "group": "FD"
+  },
+  "🦑": {
+    "name": "squid",
+    "group": "FD"
+  },
+  "🦪": {
+    "name": "oyster",
+    "group": "FD"
+  },
+  "🍦": {
+    "name": "soft ice cream",
+    "group": "FD"
+  },
+  "🍧": {
+    "name": "shaved ice",
+    "group": "FD"
+  },
+  "🍨": {
+    "name": "ice cream",
+    "group": "FD"
+  },
+  "🍩": {
+    "name": "doughnut",
+    "group": "FD"
+  },
+  "🍪": {
+    "name": "cookie",
+    "group": "FD"
+  },
+  "🎂": {
+    "name": "birthday cake",
+    "group": "FD"
+  },
+  "🍰": {
+    "name": "shortcake",
+    "group": "FD"
+  },
+  "🧁": {
+    "name": "cupcake",
+    "group": "FD"
+  },
+  "🥧": {
+    "name": "pie",
+    "group": "FD"
+  },
+  "🍫": {
+    "name": "chocolate bar",
+    "group": "FD"
+  },
+  "🍬": {
+    "name": "candy",
+    "group": "FD"
+  },
+  "🍭": {
+    "name": "lollipop",
+    "group": "FD"
+  },
+  "🍮": {
+    "name": "custard",
+    "group": "FD"
+  },
+  "🍯": {
+    "name": "honey pot",
+    "group": "FD"
+  },
+  "🍼": {
+    "name": "baby bottle",
+    "group": "FD"
+  },
+  "🥛": {
+    "name": "glass of milk",
+    "group": "FD"
+  },
+  "☕": {
+    "name": "hot beverage",
+    "group": "FD"
+  },
+  "🫖": {
+    "name": "teapot",
+    "group": "FD"
+  },
+  "🍵": {
+    "name": "teacup without handle",
+    "group": "FD"
+  },
+  "🍶": {
+    "name": "sake",
+    "group": "FD"
+  },
+  "🍾": {
+    "name": "bottle with popping cork",
+    "group": "FD"
+  },
+  "🍷": {
+    "name": "wine glass",
+    "group": "FD"
+  },
+  "🍸": {
+    "name": "cocktail glass",
+    "group": "FD"
+  },
+  "🍹": {
+    "name": "tropical drink",
+    "group": "FD"
+  },
+  "🍺": {
+    "name": "beer mug",
+    "group": "FD"
+  },
+  "🍻": {
+    "name": "clinking beer mugs",
+    "group": "FD"
+  },
+  "🥂": {
+    "name": "clinking glasses",
+    "group": "FD"
+  },
+  "🥃": {
+    "name": "tumbler glass",
+    "group": "FD"
+  },
+  "🫗": {
+    "name": "pouring liquid",
+    "group": "FD"
+  },
+  "🥤": {
+    "name": "cup with straw",
+    "group": "FD"
+  },
+  "🧋": {
+    "name": "bubble tea",
+    "group": "FD"
+  },
+  "🧃": {
+    "name": "beverage box",
+    "group": "FD"
+  },
+  "🧉": {
+    "name": "mate",
+    "group": "FD"
+  },
+  "🧊": {
+    "name": "ice",
+    "group": "FD"
+  },
+  "🥢": {
+    "name": "chopsticks",
+    "group": "FD"
+  },
+  "🍽️": {
+    "name": "fork and knife with plate",
+    "group": "FD"
+  },
+  "🍴": {
+    "name": "fork and knife",
+    "group": "FD"
+  },
+  "🥄": {
+    "name": "spoon",
+    "group": "FD"
+  },
+  "🔪": {
+    "name": "kitchen knife",
+    "group": "FD"
+  },
+  "🫙": {
+    "name": "jar",
+    "group": "FD"
+  },
+  "🏺": {
+    "name": "amphora",
+    "group": "FD"
+  },
+  "🌍": {
+    "name": "globe showing Europe-Africa",
+    "group": "TP"
+  },
+  "🌎": {
+    "name": "globe showing Americas",
+    "group": "TP"
+  },
+  "🌏": {
+    "name": "globe showing Asia-Australia",
+    "group": "TP"
+  },
+  "🌐": {
+    "name": "globe with meridians",
+    "group": "TP"
+  },
+  "🗺️": {
+    "name": "world map",
+    "group": "TP"
+  },
+  "🗾": {
+    "name": "map of Japan",
+    "group": "TP"
+  },
+  "🧭": {
+    "name": "compass",
+    "group": "TP"
+  },
+  "🏔️": {
+    "name": "snow-capped mountain",
+    "group": "TP"
+  },
+  "⛰️": {
+    "name": "mountain",
+    "group": "TP"
+  },
+  "🌋": {
+    "name": "volcano",
+    "group": "TP"
+  },
+  "🗻": {
+    "name": "mount fuji",
+    "group": "TP"
+  },
+  "🏕️": {
+    "name": "camping",
+    "group": "TP"
+  },
+  "🏖️": {
+    "name": "beach with umbrella",
+    "group": "TP"
+  },
+  "🏜️": {
+    "name": "desert",
+    "group": "TP"
+  },
+  "🏝️": {
+    "name": "desert island",
+    "group": "TP"
+  },
+  "🏞️": {
+    "name": "national park",
+    "group": "TP"
+  },
+  "🏟️": {
+    "name": "stadium",
+    "group": "TP"
+  },
+  "🏛️": {
+    "name": "classical building",
+    "group": "TP"
+  },
+  "🏗️": {
+    "name": "building construction",
+    "group": "TP"
+  },
+  "🧱": {
+    "name": "brick",
+    "group": "TP"
+  },
+  "🪨": {
+    "name": "rock",
+    "group": "TP"
+  },
+  "🪵": {
+    "name": "wood",
+    "group": "TP"
+  },
+  "🛖": {
+    "name": "hut",
+    "group": "TP"
+  },
+  "🏘️": {
+    "name": "houses",
+    "group": "TP"
+  },
+  "🏚️": {
+    "name": "derelict house",
+    "group": "TP"
+  },
+  "🏠": {
+    "name": "house",
+    "group": "TP"
+  },
+  "🏡": {
+    "name": "house with garden",
+    "group": "TP"
+  },
+  "🏢": {
+    "name": "office building",
+    "group": "TP"
+  },
+  "🏣": {
+    "name": "Japanese post office",
+    "group": "TP"
+  },
+  "🏤": {
+    "name": "post office",
+    "group": "TP"
+  },
+  "🏥": {
+    "name": "hospital",
+    "group": "TP"
+  },
+  "🏦": {
+    "name": "bank",
+    "group": "TP"
+  },
+  "🏨": {
+    "name": "hotel",
+    "group": "TP"
+  },
+  "🏩": {
+    "name": "love hotel",
+    "group": "TP"
+  },
+  "🏪": {
+    "name": "convenience store",
+    "group": "TP"
+  },
+  "🏫": {
+    "name": "school",
+    "group": "TP"
+  },
+  "🏬": {
+    "name": "department store",
+    "group": "TP"
+  },
+  "🏭": {
+    "name": "factory",
+    "group": "TP"
+  },
+  "🏯": {
+    "name": "Japanese castle",
+    "group": "TP"
+  },
+  "🏰": {
+    "name": "castle",
+    "group": "TP"
+  },
+  "💒": {
+    "name": "wedding",
+    "group": "TP"
+  },
+  "🗼": {
+    "name": "Tokyo tower",
+    "group": "TP"
+  },
+  "🗽": {
+    "name": "Statue of Liberty",
+    "group": "TP"
+  },
+  "⛪": {
+    "name": "church",
+    "group": "TP"
+  },
+  "🕌": {
+    "name": "mosque",
+    "group": "TP"
+  },
+  "🛕": {
+    "name": "hindu temple",
+    "group": "TP"
+  },
+  "🕍": {
+    "name": "synagogue",
+    "group": "TP"
+  },
+  "⛩️": {
+    "name": "shinto shrine",
+    "group": "TP"
+  },
+  "🕋": {
+    "name": "kaaba",
+    "group": "TP"
+  },
+  "⛲": {
+    "name": "fountain",
+    "group": "TP"
+  },
+  "⛺": {
+    "name": "tent",
+    "group": "TP"
+  },
+  "🌁": {
+    "name": "foggy",
+    "group": "TP"
+  },
+  "🌃": {
+    "name": "night with stars",
+    "group": "TP"
+  },
+  "🏙️": {
+    "name": "cityscape",
+    "group": "TP"
+  },
+  "🌄": {
+    "name": "sunrise over mountains",
+    "group": "TP"
+  },
+  "🌅": {
+    "name": "sunrise",
+    "group": "TP"
+  },
+  "🌆": {
+    "name": "cityscape at dusk",
+    "group": "TP"
+  },
+  "🌇": {
+    "name": "sunset",
+    "group": "TP"
+  },
+  "🌉": {
+    "name": "bridge at night",
+    "group": "TP"
+  },
+  "♨️": {
+    "name": "hot springs",
+    "group": "TP"
+  },
+  "🎠": {
+    "name": "carousel horse",
+    "group": "TP"
+  },
+  "🛝": {
+    "name": "playground slide",
+    "group": "TP"
+  },
+  "🎡": {
+    "name": "ferris wheel",
+    "group": "TP"
+  },
+  "🎢": {
+    "name": "roller coaster",
+    "group": "TP"
+  },
+  "💈": {
+    "name": "barber pole",
+    "group": "TP"
+  },
+  "🎪": {
+    "name": "circus tent",
+    "group": "TP"
+  },
+  "🚂": {
+    "name": "locomotive",
+    "group": "TP"
+  },
+  "🚃": {
+    "name": "railway car",
+    "group": "TP"
+  },
+  "🚄": {
+    "name": "high-speed train",
+    "group": "TP"
+  },
+  "🚅": {
+    "name": "bullet train",
+    "group": "TP"
+  },
+  "🚆": {
+    "name": "train",
+    "group": "TP"
+  },
+  "🚇": {
+    "name": "metro",
+    "group": "TP"
+  },
+  "🚈": {
+    "name": "light rail",
+    "group": "TP"
+  },
+  "🚉": {
+    "name": "station",
+    "group": "TP"
+  },
+  "🚊": {
+    "name": "tram",
+    "group": "TP"
+  },
+  "🚝": {
+    "name": "monorail",
+    "group": "TP"
+  },
+  "🚞": {
+    "name": "mountain railway",
+    "group": "TP"
+  },
+  "🚋": {
+    "name": "tram car",
+    "group": "TP"
+  },
+  "🚌": {
+    "name": "bus",
+    "group": "TP"
+  },
+  "🚍": {
+    "name": "oncoming bus",
+    "group": "TP"
+  },
+  "🚎": {
+    "name": "trolleybus",
+    "group": "TP"
+  },
+  "🚐": {
+    "name": "minibus",
+    "group": "TP"
+  },
+  "🚑": {
+    "name": "ambulance",
+    "group": "TP"
+  },
+  "🚒": {
+    "name": "fire engine",
+    "group": "TP"
+  },
+  "🚓": {
+    "name": "police car",
+    "group": "TP"
+  },
+  "🚔": {
+    "name": "oncoming police car",
+    "group": "TP"
+  },
+  "🚕": {
+    "name": "taxi",
+    "group": "TP"
+  },
+  "🚖": {
+    "name": "oncoming taxi",
+    "group": "TP"
+  },
+  "🚗": {
+    "name": "automobile",
+    "group": "TP"
+  },
+  "🚘": {
+    "name": "oncoming automobile",
+    "group": "TP"
+  },
+  "🚙": {
+    "name": "sport utility vehicle",
+    "group": "TP"
+  },
+  "🛻": {
+    "name": "pickup truck",
+    "group": "TP"
+  },
+  "🚚": {
+    "name": "delivery truck",
+    "group": "TP"
+  },
+  "🚛": {
+    "name": "articulated lorry",
+    "group": "TP"
+  },
+  "🚜": {
+    "name": "tractor",
+    "group": "TP"
+  },
+  "🏎️": {
+    "name": "racing car",
+    "group": "TP"
+  },
+  "🏍️": {
+    "name": "motorcycle",
+    "group": "TP"
+  },
+  "🛵": {
+    "name": "motor scooter",
+    "group": "TP"
+  },
+  "🦽": {
+    "name": "manual wheelchair",
+    "group": "TP"
+  },
+  "🦼": {
+    "name": "motorized wheelchair",
+    "group": "TP"
+  },
+  "🛺": {
+    "name": "auto rickshaw",
+    "group": "TP"
+  },
+  "🚲": {
+    "name": "bicycle",
+    "group": "TP"
+  },
+  "🛴": {
+    "name": "kick scooter",
+    "group": "TP"
+  },
+  "🛹": {
+    "name": "skateboard",
+    "group": "TP"
+  },
+  "🛼": {
+    "name": "roller skate",
+    "group": "TP"
+  },
+  "🚏": {
+    "name": "bus stop",
+    "group": "TP"
+  },
+  "🛣️": {
+    "name": "motorway",
+    "group": "TP"
+  },
+  "🛤️": {
+    "name": "railway track",
+    "group": "TP"
+  },
+  "🛢️": {
+    "name": "oil drum",
+    "group": "TP"
+  },
+  "⛽": {
+    "name": "fuel pump",
+    "group": "TP"
+  },
+  "🛞": {
+    "name": "wheel",
+    "group": "TP"
+  },
+  "🚨": {
+    "name": "police car light",
+    "group": "TP"
+  },
+  "🚥": {
+    "name": "horizontal traffic light",
+    "group": "TP"
+  },
+  "🚦": {
+    "name": "vertical traffic light",
+    "group": "TP"
+  },
+  "🛑": {
+    "name": "stop sign",
+    "group": "TP"
+  },
+  "🚧": {
+    "name": "construction",
+    "group": "TP"
+  },
+  "⚓": {
+    "name": "anchor",
+    "group": "TP"
+  },
+  "🛟": {
+    "name": "ring buoy",
+    "group": "TP"
+  },
+  "⛵": {
+    "name": "sailboat",
+    "group": "TP"
+  },
+  "🛶": {
+    "name": "canoe",
+    "group": "TP"
+  },
+  "🚤": {
+    "name": "speedboat",
+    "group": "TP"
+  },
+  "🛳️": {
+    "name": "passenger ship",
+    "group": "TP"
+  },
+  "⛴️": {
+    "name": "ferry",
+    "group": "TP"
+  },
+  "🛥️": {
+    "name": "motor boat",
+    "group": "TP"
+  },
+  "🚢": {
+    "name": "ship",
+    "group": "TP"
+  },
+  "✈️": {
+    "name": "airplane",
+    "group": "TP"
+  },
+  "🛩️": {
+    "name": "small airplane",
+    "group": "TP"
+  },
+  "🛫": {
+    "name": "airplane departure",
+    "group": "TP"
+  },
+  "🛬": {
+    "name": "airplane arrival",
+    "group": "TP"
+  },
+  "🪂": {
+    "name": "parachute",
+    "group": "TP"
+  },
+  "💺": {
+    "name": "seat",
+    "group": "TP"
+  },
+  "🚁": {
+    "name": "helicopter",
+    "group": "TP"
+  },
+  "🚟": {
+    "name": "suspension railway",
+    "group": "TP"
+  },
+  "🚠": {
+    "name": "mountain cableway",
+    "group": "TP"
+  },
+  "🚡": {
+    "name": "aerial tramway",
+    "group": "TP"
+  },
+  "🛰️": {
+    "name": "satellite",
+    "group": "TP"
+  },
+  "🚀": {
+    "name": "rocket",
+    "group": "TP"
+  },
+  "🛸": {
+    "name": "flying saucer",
+    "group": "TP"
+  },
+  "🛎️": {
+    "name": "bellhop bell",
+    "group": "TP"
+  },
+  "🧳": {
+    "name": "luggage",
+    "group": "TP"
+  },
+  "⌛": {
+    "name": "hourglass done",
+    "group": "TP"
+  },
+  "⏳": {
+    "name": "hourglass not done",
+    "group": "TP"
+  },
+  "⌚": {
+    "name": "watch",
+    "group": "TP"
+  },
+  "⏰": {
+    "name": "alarm clock",
+    "group": "TP"
+  },
+  "⏱️": {
+    "name": "stopwatch",
+    "group": "TP"
+  },
+  "⏲️": {
+    "name": "timer clock",
+    "group": "TP"
+  },
+  "🕰️": {
+    "name": "mantelpiece clock",
+    "group": "TP"
+  },
+  "🕛": {
+    "name": "twelve o’clock",
+    "group": "TP"
+  },
+  "🕧": {
+    "name": "twelve-thirty",
+    "group": "TP"
+  },
+  "🕐": {
+    "name": "one o’clock",
+    "group": "TP"
+  },
+  "🕜": {
+    "name": "one-thirty",
+    "group": "TP"
+  },
+  "🕑": {
+    "name": "two o’clock",
+    "group": "TP"
+  },
+  "🕝": {
+    "name": "two-thirty",
+    "group": "TP"
+  },
+  "🕒": {
+    "name": "three o’clock",
+    "group": "TP"
+  },
+  "🕞": {
+    "name": "three-thirty",
+    "group": "TP"
+  },
+  "🕓": {
+    "name": "four o’clock",
+    "group": "TP"
+  },
+  "🕟": {
+    "name": "four-thirty",
+    "group": "TP"
+  },
+  "🕔": {
+    "name": "five o’clock",
+    "group": "TP"
+  },
+  "🕠": {
+    "name": "five-thirty",
+    "group": "TP"
+  },
+  "🕕": {
+    "name": "six o’clock",
+    "group": "TP"
+  },
+  "🕡": {
+    "name": "six-thirty",
+    "group": "TP"
+  },
+  "🕖": {
+    "name": "seven o’clock",
+    "group": "TP"
+  },
+  "🕢": {
+    "name": "seven-thirty",
+    "group": "TP"
+  },
+  "🕗": {
+    "name": "eight o’clock",
+    "group": "TP"
+  },
+  "🕣": {
+    "name": "eight-thirty",
+    "group": "TP"
+  },
+  "🕘": {
+    "name": "nine o’clock",
+    "group": "TP"
+  },
+  "🕤": {
+    "name": "nine-thirty",
+    "group": "TP"
+  },
+  "🕙": {
+    "name": "ten o’clock",
+    "group": "TP"
+  },
+  "🕥": {
+    "name": "ten-thirty",
+    "group": "TP"
+  },
+  "🕚": {
+    "name": "eleven o’clock",
+    "group": "TP"
+  },
+  "🕦": {
+    "name": "eleven-thirty",
+    "group": "TP"
+  },
+  "🌑": {
+    "name": "new moon",
+    "group": "TP"
+  },
+  "🌒": {
+    "name": "waxing crescent moon",
+    "group": "TP"
+  },
+  "🌓": {
+    "name": "first quarter moon",
+    "group": "TP"
+  },
+  "🌔": {
+    "name": "waxing gibbous moon",
+    "group": "TP"
+  },
+  "🌕": {
+    "name": "full moon",
+    "group": "TP"
+  },
+  "🌖": {
+    "name": "waning gibbous moon",
+    "group": "TP"
+  },
+  "🌗": {
+    "name": "last quarter moon",
+    "group": "TP"
+  },
+  "🌘": {
+    "name": "waning crescent moon",
+    "group": "TP"
+  },
+  "🌙": {
+    "name": "crescent moon",
+    "group": "TP"
+  },
+  "🌚": {
+    "name": "new moon face",
+    "group": "TP"
+  },
+  "🌛": {
+    "name": "first quarter moon face",
+    "group": "TP"
+  },
+  "🌜": {
+    "name": "last quarter moon face",
+    "group": "TP"
+  },
+  "🌡️": {
+    "name": "thermometer",
+    "group": "TP"
+  },
+  "☀️": {
+    "name": "sun",
+    "group": "TP"
+  },
+  "🌝": {
+    "name": "full moon face",
+    "group": "TP"
+  },
+  "🌞": {
+    "name": "sun with face",
+    "group": "TP"
+  },
+  "🪐": {
+    "name": "ringed planet",
+    "group": "TP"
+  },
+  "⭐": {
+    "name": "star",
+    "group": "TP"
+  },
+  "🌟": {
+    "name": "glowing star",
+    "group": "TP"
+  },
+  "🌠": {
+    "name": "shooting star",
+    "group": "TP"
+  },
+  "🌌": {
+    "name": "milky way",
+    "group": "TP"
+  },
+  "☁️": {
+    "name": "cloud",
+    "group": "TP"
+  },
+  "⛅": {
+    "name": "sun behind cloud",
+    "group": "TP"
+  },
+  "⛈️": {
+    "name": "cloud with lightning and rain",
+    "group": "TP"
+  },
+  "🌤️": {
+    "name": "sun behind small cloud",
+    "group": "TP"
+  },
+  "🌥️": {
+    "name": "sun behind large cloud",
+    "group": "TP"
+  },
+  "🌦️": {
+    "name": "sun behind rain cloud",
+    "group": "TP"
+  },
+  "🌧️": {
+    "name": "cloud with rain",
+    "group": "TP"
+  },
+  "🌨️": {
+    "name": "cloud with snow",
+    "group": "TP"
+  },
+  "🌩️": {
+    "name": "cloud with lightning",
+    "group": "TP"
+  },
+  "🌪️": {
+    "name": "tornado",
+    "group": "TP"
+  },
+  "🌫️": {
+    "name": "fog",
+    "group": "TP"
+  },
+  "🌬️": {
+    "name": "wind face",
+    "group": "TP"
+  },
+  "🌀": {
+    "name": "cyclone",
+    "group": "TP"
+  },
+  "🌈": {
+    "name": "rainbow",
+    "group": "TP"
+  },
+  "🌂": {
+    "name": "closed umbrella",
+    "group": "TP"
+  },
+  "☂️": {
+    "name": "umbrella",
+    "group": "TP"
+  },
+  "☔": {
+    "name": "umbrella with rain drops",
+    "group": "TP"
+  },
+  "⛱️": {
+    "name": "umbrella on ground",
+    "group": "TP"
+  },
+  "⚡": {
+    "name": "high voltage",
+    "group": "TP"
+  },
+  "❄️": {
+    "name": "snowflake",
+    "group": "TP"
+  },
+  "☃️": {
+    "name": "snowman",
+    "group": "TP"
+  },
+  "⛄": {
+    "name": "snowman without snow",
+    "group": "TP"
+  },
+  "☄️": {
+    "name": "comet",
+    "group": "TP"
+  },
+  "🔥": {
+    "name": "fire",
+    "group": "TP"
+  },
+  "💧": {
+    "name": "droplet",
+    "group": "TP"
+  },
+  "🌊": {
+    "name": "water wave",
+    "group": "TP"
+  },
+  "🎃": {
+    "name": "jack-o-lantern",
+    "group": "A"
+  },
+  "🎄": {
+    "name": "Christmas tree",
+    "group": "A"
+  },
+  "🎆": {
+    "name": "fireworks",
+    "group": "A"
+  },
+  "🎇": {
+    "name": "sparkler",
+    "group": "A"
+  },
+  "🧨": {
+    "name": "firecracker",
+    "group": "A"
+  },
+  "✨": {
+    "name": "sparkles",
+    "group": "A"
+  },
+  "🎈": {
+    "name": "balloon",
+    "group": "A"
+  },
+  "🎉": {
+    "name": "party popper",
+    "group": "A"
+  },
+  "🎊": {
+    "name": "confetti ball",
+    "group": "A"
+  },
+  "🎋": {
+    "name": "tanabata tree",
+    "group": "A"
+  },
+  "🎍": {
+    "name": "pine decoration",
+    "group": "A"
+  },
+  "🎎": {
+    "name": "Japanese dolls",
+    "group": "A"
+  },
+  "🎏": {
+    "name": "carp streamer",
+    "group": "A"
+  },
+  "🎐": {
+    "name": "wind chime",
+    "group": "A"
+  },
+  "🎑": {
+    "name": "moon viewing ceremony",
+    "group": "A"
+  },
+  "🧧": {
+    "name": "red envelope",
+    "group": "A"
+  },
+  "🎀": {
+    "name": "ribbon",
+    "group": "A"
+  },
+  "🎁": {
+    "name": "wrapped gift",
+    "group": "A"
+  },
+  "🎗️": {
+    "name": "reminder ribbon",
+    "group": "A"
+  },
+  "🎟️": {
+    "name": "admission tickets",
+    "group": "A"
+  },
+  "🎫": {
+    "name": "ticket",
+    "group": "A"
+  },
+  "🎖️": {
+    "name": "military medal",
+    "group": "A"
+  },
+  "🏆": {
+    "name": "trophy",
+    "group": "A"
+  },
+  "🏅": {
+    "name": "sports medal",
+    "group": "A"
+  },
+  "🥇": {
+    "name": "1st place medal",
+    "group": "A"
+  },
+  "🥈": {
+    "name": "2nd place medal",
+    "group": "A"
+  },
+  "🥉": {
+    "name": "3rd place medal",
+    "group": "A"
+  },
+  "⚽": {
+    "name": "soccer ball",
+    "group": "A"
+  },
+  "⚾": {
+    "name": "baseball",
+    "group": "A"
+  },
+  "🥎": {
+    "name": "softball",
+    "group": "A"
+  },
+  "🏀": {
+    "name": "basketball",
+    "group": "A"
+  },
+  "🏐": {
+    "name": "volleyball",
+    "group": "A"
+  },
+  "🏈": {
+    "name": "american football",
+    "group": "A"
+  },
+  "🏉": {
+    "name": "rugby football",
+    "group": "A"
+  },
+  "🎾": {
+    "name": "tennis",
+    "group": "A"
+  },
+  "🥏": {
+    "name": "flying disc",
+    "group": "A"
+  },
+  "🎳": {
+    "name": "bowling",
+    "group": "A"
+  },
+  "🏏": {
+    "name": "cricket game",
+    "group": "A"
+  },
+  "🏑": {
+    "name": "field hockey",
+    "group": "A"
+  },
+  "🏒": {
+    "name": "ice hockey",
+    "group": "A"
+  },
+  "🥍": {
+    "name": "lacrosse",
+    "group": "A"
+  },
+  "🏓": {
+    "name": "ping pong",
+    "group": "A"
+  },
+  "🏸": {
+    "name": "badminton",
+    "group": "A"
+  },
+  "🥊": {
+    "name": "boxing glove",
+    "group": "A"
+  },
+  "🥋": {
+    "name": "martial arts uniform",
+    "group": "A"
+  },
+  "🥅": {
+    "name": "goal net",
+    "group": "A"
+  },
+  "⛳": {
+    "name": "flag in hole",
+    "group": "A"
+  },
+  "⛸️": {
+    "name": "ice skate",
+    "group": "A"
+  },
+  "🎣": {
+    "name": "fishing pole",
+    "group": "A"
+  },
+  "🤿": {
+    "name": "diving mask",
+    "group": "A"
+  },
+  "🎽": {
+    "name": "running shirt",
+    "group": "A"
+  },
+  "🎿": {
+    "name": "skis",
+    "group": "A"
+  },
+  "🛷": {
+    "name": "sled",
+    "group": "A"
+  },
+  "🥌": {
+    "name": "curling stone",
+    "group": "A"
+  },
+  "🎯": {
+    "name": "bullseye",
+    "group": "A"
+  },
+  "🪀": {
+    "name": "yo-yo",
+    "group": "A"
+  },
+  "🪁": {
+    "name": "kite",
+    "group": "A"
+  },
+  "🔫": {
+    "name": "water pistol",
+    "group": "A"
+  },
+  "🎱": {
+    "name": "pool 8 ball",
+    "group": "A"
+  },
+  "🔮": {
+    "name": "crystal ball",
+    "group": "A"
+  },
+  "🪄": {
+    "name": "magic wand",
+    "group": "A"
+  },
+  "🎮": {
+    "name": "video game",
+    "group": "A"
+  },
+  "🕹️": {
+    "name": "joystick",
+    "group": "A"
+  },
+  "🎰": {
+    "name": "slot machine",
+    "group": "A"
+  },
+  "🎲": {
+    "name": "game die",
+    "group": "A"
+  },
+  "🧩": {
+    "name": "puzzle piece",
+    "group": "A"
+  },
+  "🧸": {
+    "name": "teddy bear",
+    "group": "A"
+  },
+  "🪅": {
+    "name": "piñata",
+    "group": "A"
+  },
+  "🪩": {
+    "name": "mirror ball",
+    "group": "A"
+  },
+  "🪆": {
+    "name": "nesting dolls",
+    "group": "A"
+  },
+  "♠️": {
+    "name": "spade suit",
+    "group": "A"
+  },
+  "♥️": {
+    "name": "heart suit",
+    "group": "A"
+  },
+  "♦️": {
+    "name": "diamond suit",
+    "group": "A"
+  },
+  "♣️": {
+    "name": "club suit",
+    "group": "A"
+  },
+  "♟️": {
+    "name": "chess pawn",
+    "group": "A"
+  },
+  "🃏": {
+    "name": "joker",
+    "group": "A"
+  },
+  "🀄": {
+    "name": "mahjong red dragon",
+    "group": "A"
+  },
+  "🎴": {
+    "name": "flower playing cards",
+    "group": "A"
+  },
+  "🎭": {
+    "name": "performing arts",
+    "group": "A"
+  },
+  "🖼️": {
+    "name": "framed picture",
+    "group": "A"
+  },
+  "🎨": {
+    "name": "artist palette",
+    "group": "A"
+  },
+  "🧵": {
+    "name": "thread",
+    "group": "A"
+  },
+  "🪡": {
+    "name": "sewing needle",
+    "group": "A"
+  },
+  "🧶": {
+    "name": "yarn",
+    "group": "A"
+  },
+  "🪢": {
+    "name": "knot",
+    "group": "A"
+  },
+  "👓": {
+    "name": "glasses",
+    "group": "O"
+  },
+  "🕶️": {
+    "name": "sunglasses",
+    "group": "O"
+  },
+  "🥽": {
+    "name": "goggles",
+    "group": "O"
+  },
+  "🥼": {
+    "name": "lab coat",
+    "group": "O"
+  },
+  "🦺": {
+    "name": "safety vest",
+    "group": "O"
+  },
+  "👔": {
+    "name": "necktie",
+    "group": "O"
+  },
+  "👕": {
+    "name": "t-shirt",
+    "group": "O"
+  },
+  "👖": {
+    "name": "jeans",
+    "group": "O"
+  },
+  "🧣": {
+    "name": "scarf",
+    "group": "O"
+  },
+  "🧤": {
+    "name": "gloves",
+    "group": "O"
+  },
+  "🧥": {
+    "name": "coat",
+    "group": "O"
+  },
+  "🧦": {
+    "name": "socks",
+    "group": "O"
+  },
+  "👗": {
+    "name": "dress",
+    "group": "O"
+  },
+  "👘": {
+    "name": "kimono",
+    "group": "O"
+  },
+  "🥻": {
+    "name": "sari",
+    "group": "O"
+  },
+  "🩱": {
+    "name": "one-piece swimsuit",
+    "group": "O"
+  },
+  "🩲": {
+    "name": "briefs",
+    "group": "O"
+  },
+  "🩳": {
+    "name": "shorts",
+    "group": "O"
+  },
+  "👙": {
+    "name": "bikini",
+    "group": "O"
+  },
+  "👚": {
+    "name": "woman’s clothes",
+    "group": "O"
+  },
+  "🪭": {
+    "name": "folding hand fan",
+    "group": "O"
+  },
+  "👛": {
+    "name": "purse",
+    "group": "O"
+  },
+  "👜": {
+    "name": "handbag",
+    "group": "O"
+  },
+  "👝": {
+    "name": "clutch bag",
+    "group": "O"
+  },
+  "🛍️": {
+    "name": "shopping bags",
+    "group": "O"
+  },
+  "🎒": {
+    "name": "backpack",
+    "group": "O"
+  },
+  "🩴": {
+    "name": "thong sandal",
+    "group": "O"
+  },
+  "👞": {
+    "name": "man’s shoe",
+    "group": "O"
+  },
+  "👟": {
+    "name": "running shoe",
+    "group": "O"
+  },
+  "🥾": {
+    "name": "hiking boot",
+    "group": "O"
+  },
+  "🥿": {
+    "name": "flat shoe",
+    "group": "O"
+  },
+  "👠": {
+    "name": "high-heeled shoe",
+    "group": "O"
+  },
+  "👡": {
+    "name": "woman’s sandal",
+    "group": "O"
+  },
+  "🩰": {
+    "name": "ballet shoes",
+    "group": "O"
+  },
+  "👢": {
+    "name": "woman’s boot",
+    "group": "O"
+  },
+  "🪮": {
+    "name": "hair pick",
+    "group": "O"
+  },
+  "👑": {
+    "name": "crown",
+    "group": "O"
+  },
+  "👒": {
+    "name": "woman’s hat",
+    "group": "O"
+  },
+  "🎩": {
+    "name": "top hat",
+    "group": "O"
+  },
+  "🎓": {
+    "name": "graduation cap",
+    "group": "O"
+  },
+  "🧢": {
+    "name": "billed cap",
+    "group": "O"
+  },
+  "🪖": {
+    "name": "military helmet",
+    "group": "O"
+  },
+  "⛑️": {
+    "name": "rescue worker’s helmet",
+    "group": "O"
+  },
+  "📿": {
+    "name": "prayer beads",
+    "group": "O"
+  },
+  "💄": {
+    "name": "lipstick",
+    "group": "O"
+  },
+  "💍": {
+    "name": "ring",
+    "group": "O"
+  },
+  "💎": {
+    "name": "gem stone",
+    "group": "O"
+  },
+  "🔇": {
+    "name": "muted speaker",
+    "group": "O"
+  },
+  "🔈": {
+    "name": "speaker low volume",
+    "group": "O"
+  },
+  "🔉": {
+    "name": "speaker medium volume",
+    "group": "O"
+  },
+  "🔊": {
+    "name": "speaker high volume",
+    "group": "O"
+  },
+  "📢": {
+    "name": "loudspeaker",
+    "group": "O"
+  },
+  "📣": {
+    "name": "megaphone",
+    "group": "O"
+  },
+  "📯": {
+    "name": "postal horn",
+    "group": "O"
+  },
+  "🔔": {
+    "name": "bell",
+    "group": "O"
+  },
+  "🔕": {
+    "name": "bell with slash",
+    "group": "O"
+  },
+  "🎼": {
+    "name": "musical score",
+    "group": "O"
+  },
+  "🎵": {
+    "name": "musical note",
+    "group": "O"
+  },
+  "🎶": {
+    "name": "musical notes",
+    "group": "O"
+  },
+  "🎙️": {
+    "name": "studio microphone",
+    "group": "O"
+  },
+  "🎚️": {
+    "name": "level slider",
+    "group": "O"
+  },
+  "🎛️": {
+    "name": "control knobs",
+    "group": "O"
+  },
+  "🎤": {
+    "name": "microphone",
+    "group": "O"
+  },
+  "🎧": {
+    "name": "headphone",
+    "group": "O"
+  },
+  "📻": {
+    "name": "radio",
+    "group": "O"
+  },
+  "🎷": {
+    "name": "saxophone",
+    "group": "O"
+  },
+  "🪗": {
+    "name": "accordion",
+    "group": "O"
+  },
+  "🎸": {
+    "name": "guitar",
+    "group": "O"
+  },
+  "🎹": {
+    "name": "musical keyboard",
+    "group": "O"
+  },
+  "🎺": {
+    "name": "trumpet",
+    "group": "O"
+  },
+  "🎻": {
+    "name": "violin",
+    "group": "O"
+  },
+  "🪕": {
+    "name": "banjo",
+    "group": "O"
+  },
+  "🥁": {
+    "name": "drum",
+    "group": "O"
+  },
+  "🪘": {
+    "name": "long drum",
+    "group": "O"
+  },
+  "🪇": {
+    "name": "maracas",
+    "group": "O"
+  },
+  "🪈": {
+    "name": "flute",
+    "group": "O"
+  },
+  "📱": {
+    "name": "mobile phone",
+    "group": "O"
+  },
+  "📲": {
+    "name": "mobile phone with arrow",
+    "group": "O"
+  },
+  "☎️": {
+    "name": "telephone",
+    "group": "O"
+  },
+  "📞": {
+    "name": "telephone receiver",
+    "group": "O"
+  },
+  "📟": {
+    "name": "pager",
+    "group": "O"
+  },
+  "📠": {
+    "name": "fax machine",
+    "group": "O"
+  },
+  "🔋": {
+    "name": "battery",
+    "group": "O"
+  },
+  "🪫": {
+    "name": "low battery",
+    "group": "O"
+  },
+  "🔌": {
+    "name": "electric plug",
+    "group": "O"
+  },
+  "💻": {
+    "name": "laptop",
+    "group": "O"
+  },
+  "🖥️": {
+    "name": "desktop computer",
+    "group": "O"
+  },
+  "🖨️": {
+    "name": "printer",
+    "group": "O"
+  },
+  "⌨️": {
+    "name": "keyboard",
+    "group": "O"
+  },
+  "🖱️": {
+    "name": "computer mouse",
+    "group": "O"
+  },
+  "🖲️": {
+    "name": "trackball",
+    "group": "O"
+  },
+  "💽": {
+    "name": "computer disk",
+    "group": "O"
+  },
+  "💾": {
+    "name": "floppy disk",
+    "group": "O"
+  },
+  "💿": {
+    "name": "optical disk",
+    "group": "O"
+  },
+  "📀": {
+    "name": "dvd",
+    "group": "O"
+  },
+  "🧮": {
+    "name": "abacus",
+    "group": "O"
+  },
+  "🎥": {
+    "name": "movie camera",
+    "group": "O"
+  },
+  "🎞️": {
+    "name": "film frames",
+    "group": "O"
+  },
+  "📽️": {
+    "name": "film projector",
+    "group": "O"
+  },
+  "🎬": {
+    "name": "clapper board",
+    "group": "O"
+  },
+  "📺": {
+    "name": "television",
+    "group": "O"
+  },
+  "📷": {
+    "name": "camera",
+    "group": "O"
+  },
+  "📸": {
+    "name": "camera with flash",
+    "group": "O"
+  },
+  "📹": {
+    "name": "video camera",
+    "group": "O"
+  },
+  "📼": {
+    "name": "videocassette",
+    "group": "O"
+  },
+  "🔍": {
+    "name": "magnifying glass tilted left",
+    "group": "O"
+  },
+  "🔎": {
+    "name": "magnifying glass tilted right",
+    "group": "O"
+  },
+  "🕯️": {
+    "name": "candle",
+    "group": "O"
+  },
+  "💡": {
+    "name": "light bulb",
+    "group": "O"
+  },
+  "🔦": {
+    "name": "flashlight",
+    "group": "O"
+  },
+  "🏮": {
+    "name": "red paper lantern",
+    "group": "O"
+  },
+  "🪔": {
+    "name": "diya lamp",
+    "group": "O"
+  },
+  "📔": {
+    "name": "notebook with decorative cover",
+    "group": "O"
+  },
+  "📕": {
+    "name": "closed book",
+    "group": "O"
+  },
+  "📖": {
+    "name": "open book",
+    "group": "O"
+  },
+  "📗": {
+    "name": "green book",
+    "group": "O"
+  },
+  "📘": {
+    "name": "blue book",
+    "group": "O"
+  },
+  "📙": {
+    "name": "orange book",
+    "group": "O"
+  },
+  "📚": {
+    "name": "books",
+    "group": "O"
+  },
+  "📓": {
+    "name": "notebook",
+    "group": "O"
+  },
+  "📒": {
+    "name": "ledger",
+    "group": "O"
+  },
+  "📃": {
+    "name": "page with curl",
+    "group": "O"
+  },
+  "📜": {
+    "name": "scroll",
+    "group": "O"
+  },
+  "📄": {
+    "name": "page facing up",
+    "group": "O"
+  },
+  "📰": {
+    "name": "newspaper",
+    "group": "O"
+  },
+  "🗞️": {
+    "name": "rolled-up newspaper",
+    "group": "O"
+  },
+  "📑": {
+    "name": "bookmark tabs",
+    "group": "O"
+  },
+  "🔖": {
+    "name": "bookmark",
+    "group": "O"
+  },
+  "🏷️": {
+    "name": "label",
+    "group": "O"
+  },
+  "💰": {
+    "name": "money bag",
+    "group": "O"
+  },
+  "🪙": {
+    "name": "coin",
+    "group": "O"
+  },
+  "💴": {
+    "name": "yen banknote",
+    "group": "O"
+  },
+  "💵": {
+    "name": "dollar banknote",
+    "group": "O"
+  },
+  "💶": {
+    "name": "euro banknote",
+    "group": "O"
+  },
+  "💷": {
+    "name": "pound banknote",
+    "group": "O"
+  },
+  "💸": {
+    "name": "money with wings",
+    "group": "O"
+  },
+  "💳": {
+    "name": "credit card",
+    "group": "O"
+  },
+  "🧾": {
+    "name": "receipt",
+    "group": "O"
+  },
+  "💹": {
+    "name": "chart increasing with yen",
+    "group": "O"
+  },
+  "✉️": {
+    "name": "envelope",
+    "group": "O"
+  },
+  "📧": {
+    "name": "e-mail",
+    "group": "O"
+  },
+  "📨": {
+    "name": "incoming envelope",
+    "group": "O"
+  },
+  "📩": {
+    "name": "envelope with arrow",
+    "group": "O"
+  },
+  "📤": {
+    "name": "outbox tray",
+    "group": "O"
+  },
+  "📥": {
+    "name": "inbox tray",
+    "group": "O"
+  },
+  "📦": {
+    "name": "package",
+    "group": "O"
+  },
+  "📫": {
+    "name": "closed mailbox with raised flag",
+    "group": "O"
+  },
+  "📪": {
+    "name": "closed mailbox with lowered flag",
+    "group": "O"
+  },
+  "📬": {
+    "name": "open mailbox with raised flag",
+    "group": "O"
+  },
+  "📭": {
+    "name": "open mailbox with lowered flag",
+    "group": "O"
+  },
+  "📮": {
+    "name": "postbox",
+    "group": "O"
+  },
+  "🗳️": {
+    "name": "ballot box with ballot",
+    "group": "O"
+  },
+  "✏️": {
+    "name": "pencil",
+    "group": "O"
+  },
+  "✒️": {
+    "name": "black nib",
+    "group": "O"
+  },
+  "🖋️": {
+    "name": "fountain pen",
+    "group": "O"
+  },
+  "🖊️": {
+    "name": "pen",
+    "group": "O"
+  },
+  "🖌️": {
+    "name": "paintbrush",
+    "group": "O"
+  },
+  "🖍️": {
+    "name": "crayon",
+    "group": "O"
+  },
+  "📝": {
+    "name": "memo",
+    "group": "O"
+  },
+  "💼": {
+    "name": "briefcase",
+    "group": "O"
+  },
+  "📁": {
+    "name": "file folder",
+    "group": "O"
+  },
+  "📂": {
+    "name": "open file folder",
+    "group": "O"
+  },
+  "🗂️": {
+    "name": "card index dividers",
+    "group": "O"
+  },
+  "📅": {
+    "name": "calendar",
+    "group": "O"
+  },
+  "📆": {
+    "name": "tear-off calendar",
+    "group": "O"
+  },
+  "🗒️": {
+    "name": "spiral notepad",
+    "group": "O"
+  },
+  "🗓️": {
+    "name": "spiral calendar",
+    "group": "O"
+  },
+  "📇": {
+    "name": "card index",
+    "group": "O"
+  },
+  "📈": {
+    "name": "chart increasing",
+    "group": "O"
+  },
+  "📉": {
+    "name": "chart decreasing",
+    "group": "O"
+  },
+  "📊": {
+    "name": "bar chart",
+    "group": "O"
+  },
+  "📋": {
+    "name": "clipboard",
+    "group": "O"
+  },
+  "📌": {
+    "name": "pushpin",
+    "group": "O"
+  },
+  "📍": {
+    "name": "round pushpin",
+    "group": "O"
+  },
+  "📎": {
+    "name": "paperclip",
+    "group": "O"
+  },
+  "🖇️": {
+    "name": "linked paperclips",
+    "group": "O"
+  },
+  "📏": {
+    "name": "straight ruler",
+    "group": "O"
+  },
+  "📐": {
+    "name": "triangular ruler",
+    "group": "O"
+  },
+  "✂️": {
+    "name": "scissors",
+    "group": "O"
+  },
+  "🗃️": {
+    "name": "card file box",
+    "group": "O"
+  },
+  "🗄️": {
+    "name": "file cabinet",
+    "group": "O"
+  },
+  "🗑️": {
+    "name": "wastebasket",
+    "group": "O"
+  },
+  "🔒": {
+    "name": "locked",
+    "group": "O"
+  },
+  "🔓": {
+    "name": "unlocked",
+    "group": "O"
+  },
+  "🔏": {
+    "name": "locked with pen",
+    "group": "O"
+  },
+  "🔐": {
+    "name": "locked with key",
+    "group": "O"
+  },
+  "🔑": {
+    "name": "key",
+    "group": "O"
+  },
+  "🗝️": {
+    "name": "old key",
+    "group": "O"
+  },
+  "🔨": {
+    "name": "hammer",
+    "group": "O"
+  },
+  "🪓": {
+    "name": "axe",
+    "group": "O"
+  },
+  "⛏️": {
+    "name": "pick",
+    "group": "O"
+  },
+  "⚒️": {
+    "name": "hammer and pick",
+    "group": "O"
+  },
+  "🛠️": {
+    "name": "hammer and wrench",
+    "group": "O"
+  },
+  "🗡️": {
+    "name": "dagger",
+    "group": "O"
+  },
+  "⚔️": {
+    "name": "crossed swords",
+    "group": "O"
+  },
+  "💣": {
+    "name": "bomb",
+    "group": "O"
+  },
+  "🪃": {
+    "name": "boomerang",
+    "group": "O"
+  },
+  "🏹": {
+    "name": "bow and arrow",
+    "group": "O"
+  },
+  "🛡️": {
+    "name": "shield",
+    "group": "O"
+  },
+  "🪚": {
+    "name": "carpentry saw",
+    "group": "O"
+  },
+  "🔧": {
+    "name": "wrench",
+    "group": "O"
+  },
+  "🪛": {
+    "name": "screwdriver",
+    "group": "O"
+  },
+  "🔩": {
+    "name": "nut and bolt",
+    "group": "O"
+  },
+  "⚙️": {
+    "name": "gear",
+    "group": "O"
+  },
+  "🗜️": {
+    "name": "clamp",
+    "group": "O"
+  },
+  "⚖️": {
+    "name": "balance scale",
+    "group": "O"
+  },
+  "🦯": {
+    "name": "white cane",
+    "group": "O"
+  },
+  "🔗": {
+    "name": "link",
+    "group": "O"
+  },
+  "⛓️‍💥": {
+    "name": "broken chain",
+    "group": "O"
+  },
+  "⛓️": {
+    "name": "chains",
+    "group": "O"
+  },
+  "🪝": {
+    "name": "hook",
+    "group": "O"
+  },
+  "🧰": {
+    "name": "toolbox",
+    "group": "O"
+  },
+  "🧲": {
+    "name": "magnet",
+    "group": "O"
+  },
+  "🪜": {
+    "name": "ladder",
+    "group": "O"
+  },
+  "⚗️": {
+    "name": "alembic",
+    "group": "O"
+  },
+  "🧪": {
+    "name": "test tube",
+    "group": "O"
+  },
+  "🧫": {
+    "name": "petri dish",
+    "group": "O"
+  },
+  "🧬": {
+    "name": "dna",
+    "group": "O"
+  },
+  "🔬": {
+    "name": "microscope",
+    "group": "O"
+  },
+  "🔭": {
+    "name": "telescope",
+    "group": "O"
+  },
+  "📡": {
+    "name": "satellite antenna",
+    "group": "O"
+  },
+  "💉": {
+    "name": "syringe",
+    "group": "O"
+  },
+  "🩸": {
+    "name": "drop of blood",
+    "group": "O"
+  },
+  "💊": {
+    "name": "pill",
+    "group": "O"
+  },
+  "🩹": {
+    "name": "adhesive bandage",
+    "group": "O"
+  },
+  "🩼": {
+    "name": "crutch",
+    "group": "O"
+  },
+  "🩺": {
+    "name": "stethoscope",
+    "group": "O"
+  },
+  "🩻": {
+    "name": "x-ray",
+    "group": "O"
+  },
+  "🚪": {
+    "name": "door",
+    "group": "O"
+  },
+  "🛗": {
+    "name": "elevator",
+    "group": "O"
+  },
+  "🪞": {
+    "name": "mirror",
+    "group": "O"
+  },
+  "🪟": {
+    "name": "window",
+    "group": "O"
+  },
+  "🛏️": {
+    "name": "bed",
+    "group": "O"
+  },
+  "🛋️": {
+    "name": "couch and lamp",
+    "group": "O"
+  },
+  "🪑": {
+    "name": "chair",
+    "group": "O"
+  },
+  "🚽": {
+    "name": "toilet",
+    "group": "O"
+  },
+  "🪠": {
+    "name": "plunger",
+    "group": "O"
+  },
+  "🚿": {
+    "name": "shower",
+    "group": "O"
+  },
+  "🛁": {
+    "name": "bathtub",
+    "group": "O"
+  },
+  "🪤": {
+    "name": "mouse trap",
+    "group": "O"
+  },
+  "🪒": {
+    "name": "razor",
+    "group": "O"
+  },
+  "🧴": {
+    "name": "lotion bottle",
+    "group": "O"
+  },
+  "🧷": {
+    "name": "safety pin",
+    "group": "O"
+  },
+  "🧹": {
+    "name": "broom",
+    "group": "O"
+  },
+  "🧺": {
+    "name": "basket",
+    "group": "O"
+  },
+  "🧻": {
+    "name": "roll of paper",
+    "group": "O"
+  },
+  "🪣": {
+    "name": "bucket",
+    "group": "O"
+  },
+  "🧼": {
+    "name": "soap",
+    "group": "O"
+  },
+  "🫧": {
+    "name": "bubbles",
+    "group": "O"
+  },
+  "🪥": {
+    "name": "toothbrush",
+    "group": "O"
+  },
+  "🧽": {
+    "name": "sponge",
+    "group": "O"
+  },
+  "🧯": {
+    "name": "fire extinguisher",
+    "group": "O"
+  },
+  "🛒": {
+    "name": "shopping cart",
+    "group": "O"
+  },
+  "🚬": {
+    "name": "cigarette",
+    "group": "O"
+  },
+  "⚰️": {
+    "name": "coffin",
+    "group": "O"
+  },
+  "🪦": {
+    "name": "headstone",
+    "group": "O"
+  },
+  "⚱️": {
+    "name": "funeral urn",
+    "group": "O"
+  },
+  "🧿": {
+    "name": "nazar amulet",
+    "group": "O"
+  },
+  "🪬": {
+    "name": "hamsa",
+    "group": "O"
+  },
+  "🗿": {
+    "name": "moai",
+    "group": "O"
+  },
+  "🪧": {
+    "name": "placard",
+    "group": "O"
+  },
+  "🪪": {
+    "name": "identification card",
+    "group": "O"
+  },
+  "🏧": {
+    "name": "ATM sign",
+    "group": "S"
+  },
+  "🚮": {
+    "name": "litter in bin sign",
+    "group": "S"
+  },
+  "🚰": {
+    "name": "potable water",
+    "group": "S"
+  },
+  "♿": {
+    "name": "wheelchair symbol",
+    "group": "S"
+  },
+  "🚹": {
+    "name": "men’s room",
+    "group": "S"
+  },
+  "🚺": {
+    "name": "women’s room",
+    "group": "S"
+  },
+  "🚻": {
+    "name": "restroom",
+    "group": "S"
+  },
+  "🚼": {
+    "name": "baby symbol",
+    "group": "S"
+  },
+  "🚾": {
+    "name": "water closet",
+    "group": "S"
+  },
+  "🛂": {
+    "name": "passport control",
+    "group": "S"
+  },
+  "🛃": {
+    "name": "customs",
+    "group": "S"
+  },
+  "🛄": {
+    "name": "baggage claim",
+    "group": "S"
+  },
+  "🛅": {
+    "name": "left luggage",
+    "group": "S"
+  },
+  "⚠️": {
+    "name": "warning",
+    "group": "S"
+  },
+  "🚸": {
+    "name": "children crossing",
+    "group": "S"
+  },
+  "⛔": {
+    "name": "no entry",
+    "group": "S"
+  },
+  "🚫": {
+    "name": "prohibited",
+    "group": "S"
+  },
+  "🚳": {
+    "name": "no bicycles",
+    "group": "S"
+  },
+  "🚭": {
+    "name": "no smoking",
+    "group": "S"
+  },
+  "🚯": {
+    "name": "no littering",
+    "group": "S"
+  },
+  "🚱": {
+    "name": "non-potable water",
+    "group": "S"
+  },
+  "🚷": {
+    "name": "no pedestrians",
+    "group": "S"
+  },
+  "📵": {
+    "name": "no mobile phones",
+    "group": "S"
+  },
+  "🔞": {
+    "name": "no one under eighteen",
+    "group": "S"
+  },
+  "☢️": {
+    "name": "radioactive",
+    "group": "S"
+  },
+  "☣️": {
+    "name": "biohazard",
+    "group": "S"
+  },
+  "⬆️": {
+    "name": "up arrow",
+    "group": "S"
+  },
+  "↗️": {
+    "name": "up-right arrow",
+    "group": "S"
+  },
+  "➡️": {
+    "name": "right arrow",
+    "group": "S"
+  },
+  "↘️": {
+    "name": "down-right arrow",
+    "group": "S"
+  },
+  "⬇️": {
+    "name": "down arrow",
+    "group": "S"
+  },
+  "↙️": {
+    "name": "down-left arrow",
+    "group": "S"
+  },
+  "⬅️": {
+    "name": "left arrow",
+    "group": "S"
+  },
+  "↖️": {
+    "name": "up-left arrow",
+    "group": "S"
+  },
+  "↕️": {
+    "name": "up-down arrow",
+    "group": "S"
+  },
+  "↔️": {
+    "name": "left-right arrow",
+    "group": "S"
+  },
+  "↩️": {
+    "name": "right arrow curving left",
+    "group": "S"
+  },
+  "↪️": {
+    "name": "left arrow curving right",
+    "group": "S"
+  },
+  "⤴️": {
+    "name": "right arrow curving up",
+    "group": "S"
+  },
+  "⤵️": {
+    "name": "right arrow curving down",
+    "group": "S"
+  },
+  "🔃": {
+    "name": "clockwise vertical arrows",
+    "group": "S"
+  },
+  "🔄": {
+    "name": "counterclockwise arrows button",
+    "group": "S"
+  },
+  "🔙": {
+    "name": "BACK arrow",
+    "group": "S"
+  },
+  "🔚": {
+    "name": "END arrow",
+    "group": "S"
+  },
+  "🔛": {
+    "name": "ON! arrow",
+    "group": "S"
+  },
+  "🔜": {
+    "name": "SOON arrow",
+    "group": "S"
+  },
+  "🔝": {
+    "name": "TOP arrow",
+    "group": "S"
+  },
+  "🛐": {
+    "name": "place of worship",
+    "group": "S"
+  },
+  "⚛️": {
+    "name": "atom symbol",
+    "group": "S"
+  },
+  "🕉️": {
+    "name": "om",
+    "group": "S"
+  },
+  "✡️": {
+    "name": "star of David",
+    "group": "S"
+  },
+  "☸️": {
+    "name": "wheel of dharma",
+    "group": "S"
+  },
+  "☯️": {
+    "name": "yin yang",
+    "group": "S"
+  },
+  "✝️": {
+    "name": "latin cross",
+    "group": "S"
+  },
+  "☦️": {
+    "name": "orthodox cross",
+    "group": "S"
+  },
+  "☪️": {
+    "name": "star and crescent",
+    "group": "S"
+  },
+  "☮️": {
+    "name": "peace symbol",
+    "group": "S"
+  },
+  "🕎": {
+    "name": "menorah",
+    "group": "S"
+  },
+  "🔯": {
+    "name": "dotted six-pointed star",
+    "group": "S"
+  },
+  "🪯": {
+    "name": "khanda",
+    "group": "S"
+  },
+  "♈": {
+    "name": "Aries",
+    "group": "S"
+  },
+  "♉": {
+    "name": "Taurus",
+    "group": "S"
+  },
+  "♊": {
+    "name": "Gemini",
+    "group": "S"
+  },
+  "♋": {
+    "name": "Cancer",
+    "group": "S"
+  },
+  "♌": {
+    "name": "Leo",
+    "group": "S"
+  },
+  "♍": {
+    "name": "Virgo",
+    "group": "S"
+  },
+  "♎": {
+    "name": "Libra",
+    "group": "S"
+  },
+  "♏": {
+    "name": "Scorpio",
+    "group": "S"
+  },
+  "♐": {
+    "name": "Sagittarius",
+    "group": "S"
+  },
+  "♑": {
+    "name": "Capricorn",
+    "group": "S"
+  },
+  "♒": {
+    "name": "Aquarius",
+    "group": "S"
+  },
+  "♓": {
+    "name": "Pisces",
+    "group": "S"
+  },
+  "⛎": {
+    "name": "Ophiuchus",
+    "group": "S"
+  },
+  "🔀": {
+    "name": "shuffle tracks button",
+    "group": "S"
+  },
+  "🔁": {
+    "name": "repeat button",
+    "group": "S"
+  },
+  "🔂": {
+    "name": "repeat single button",
+    "group": "S"
+  },
+  "▶️": {
+    "name": "play button",
+    "group": "S"
+  },
+  "⏩": {
+    "name": "fast-forward button",
+    "group": "S"
+  },
+  "⏭️": {
+    "name": "next track button",
+    "group": "S"
+  },
+  "⏯️": {
+    "name": "play or pause button",
+    "group": "S"
+  },
+  "◀️": {
+    "name": "reverse button",
+    "group": "S"
+  },
+  "⏪": {
+    "name": "fast reverse button",
+    "group": "S"
+  },
+  "⏮️": {
+    "name": "last track button",
+    "group": "S"
+  },
+  "🔼": {
+    "name": "upwards button",
+    "group": "S"
+  },
+  "⏫": {
+    "name": "fast up button",
+    "group": "S"
+  },
+  "🔽": {
+    "name": "downwards button",
+    "group": "S"
+  },
+  "⏬": {
+    "name": "fast down button",
+    "group": "S"
+  },
+  "⏸️": {
+    "name": "pause button",
+    "group": "S"
+  },
+  "⏹️": {
+    "name": "stop button",
+    "group": "S"
+  },
+  "⏺️": {
+    "name": "record button",
+    "group": "S"
+  },
+  "⏏️": {
+    "name": "eject button",
+    "group": "S"
+  },
+  "🎦": {
+    "name": "cinema",
+    "group": "S"
+  },
+  "🔅": {
+    "name": "dim button",
+    "group": "S"
+  },
+  "🔆": {
+    "name": "bright button",
+    "group": "S"
+  },
+  "📶": {
+    "name": "antenna bars",
+    "group": "S"
+  },
+  "🛜": {
+    "name": "wireless",
+    "group": "S"
+  },
+  "📳": {
+    "name": "vibration mode",
+    "group": "S"
+  },
+  "📴": {
+    "name": "mobile phone off",
+    "group": "S"
+  },
+  "♀️": {
+    "name": "female sign",
+    "group": "S"
+  },
+  "♂️": {
+    "name": "male sign",
+    "group": "S"
+  },
+  "⚧️": {
+    "name": "transgender symbol",
+    "group": "S"
+  },
+  "✖️": {
+    "name": "multiply",
+    "group": "S"
+  },
+  "➕": {
+    "name": "plus",
+    "group": "S"
+  },
+  "➖": {
+    "name": "minus",
+    "group": "S"
+  },
+  "➗": {
+    "name": "divide",
+    "group": "S"
+  },
+  "🟰": {
+    "name": "heavy equals sign",
+    "group": "S"
+  },
+  "♾️": {
+    "name": "infinity",
+    "group": "S"
+  },
+  "‼️": {
+    "name": "double exclamation mark",
+    "group": "S"
+  },
+  "⁉️": {
+    "name": "exclamation question mark",
+    "group": "S"
+  },
+  "❓": {
+    "name": "red question mark",
+    "group": "S"
+  },
+  "❔": {
+    "name": "white question mark",
+    "group": "S"
+  },
+  "❕": {
+    "name": "white exclamation mark",
+    "group": "S"
+  },
+  "❗": {
+    "name": "red exclamation mark",
+    "group": "S"
+  },
+  "〰️": {
+    "name": "wavy dash",
+    "group": "S"
+  },
+  "💱": {
+    "name": "currency exchange",
+    "group": "S"
+  },
+  "💲": {
+    "name": "heavy dollar sign",
+    "group": "S"
+  },
+  "⚕️": {
+    "name": "medical symbol",
+    "group": "S"
+  },
+  "♻️": {
+    "name": "recycling symbol",
+    "group": "S"
+  },
+  "⚜️": {
+    "name": "fleur-de-lis",
+    "group": "S"
+  },
+  "🔱": {
+    "name": "trident emblem",
+    "group": "S"
+  },
+  "📛": {
+    "name": "name badge",
+    "group": "S"
+  },
+  "🔰": {
+    "name": "Japanese symbol for beginner",
+    "group": "S"
+  },
+  "⭕": {
+    "name": "hollow red circle",
+    "group": "S"
+  },
+  "✅": {
+    "name": "check mark button",
+    "group": "S"
+  },
+  "☑️": {
+    "name": "check box with check",
+    "group": "S"
+  },
+  "✔️": {
+    "name": "check mark",
+    "group": "S"
+  },
+  "❌": {
+    "name": "cross mark",
+    "group": "S"
+  },
+  "❎": {
+    "name": "cross mark button",
+    "group": "S"
+  },
+  "➰": {
+    "name": "curly loop",
+    "group": "S"
+  },
+  "➿": {
+    "name": "double curly loop",
+    "group": "S"
+  },
+  "〽️": {
+    "name": "part alternation mark",
+    "group": "S"
+  },
+  "✳️": {
+    "name": "eight-spoked asterisk",
+    "group": "S"
+  },
+  "✴️": {
+    "name": "eight-pointed star",
+    "group": "S"
+  },
+  "❇️": {
+    "name": "sparkle",
+    "group": "S"
+  },
+  "©️": {
+    "name": "copyright",
+    "group": "S"
+  },
+  "®️": {
+    "name": "registered",
+    "group": "S"
+  },
+  "™️": {
+    "name": "trade mark",
+    "group": "S"
+  },
+  "#️⃣": {
+    "name": "keycap #",
+    "group": "S"
+  },
+  "*️⃣": {
+    "name": "keycap *",
+    "group": "S"
+  },
+  "0️⃣": {
+    "name": "keycap 0",
+    "group": "S"
+  },
+  "1️⃣": {
+    "name": "keycap 1",
+    "group": "S"
+  },
+  "2️⃣": {
+    "name": "keycap 2",
+    "group": "S"
+  },
+  "3️⃣": {
+    "name": "keycap 3",
+    "group": "S"
+  },
+  "4️⃣": {
+    "name": "keycap 4",
+    "group": "S"
+  },
+  "5️⃣": {
+    "name": "keycap 5",
+    "group": "S"
+  },
+  "6️⃣": {
+    "name": "keycap 6",
+    "group": "S"
+  },
+  "7️⃣": {
+    "name": "keycap 7",
+    "group": "S"
+  },
+  "8️⃣": {
+    "name": "keycap 8",
+    "group": "S"
+  },
+  "9️⃣": {
+    "name": "keycap 9",
+    "group": "S"
+  },
+  "🔟": {
+    "name": "keycap 10",
+    "group": "S"
+  },
+  "🔠": {
+    "name": "input latin uppercase",
+    "group": "S"
+  },
+  "🔡": {
+    "name": "input latin lowercase",
+    "group": "S"
+  },
+  "🔢": {
+    "name": "input numbers",
+    "group": "S"
+  },
+  "🔣": {
+    "name": "input symbols",
+    "group": "S"
+  },
+  "🔤": {
+    "name": "input latin letters",
+    "group": "S"
+  },
+  "🅰️": {
+    "name": "A button (blood type)",
+    "group": "S"
+  },
+  "🆎": {
+    "name": "AB button (blood type)",
+    "group": "S"
+  },
+  "🅱️": {
+    "name": "B button (blood type)",
+    "group": "S"
+  },
+  "🆑": {
+    "name": "CL button",
+    "group": "S"
+  },
+  "🆒": {
+    "name": "COOL button",
+    "group": "S"
+  },
+  "🆓": {
+    "name": "FREE button",
+    "group": "S"
+  },
+  "ℹ️": {
+    "name": "information",
+    "group": "S"
+  },
+  "🆔": {
+    "name": "ID button",
+    "group": "S"
+  },
+  "Ⓜ️": {
+    "name": "circled M",
+    "group": "S"
+  },
+  "🆕": {
+    "name": "NEW button",
+    "group": "S"
+  },
+  "🆖": {
+    "name": "NG button",
+    "group": "S"
+  },
+  "🅾️": {
+    "name": "O button (blood type)",
+    "group": "S"
+  },
+  "🆗": {
+    "name": "OK button",
+    "group": "S"
+  },
+  "🅿️": {
+    "name": "P button",
+    "group": "S"
+  },
+  "🆘": {
+    "name": "SOS button",
+    "group": "S"
+  },
+  "🆙": {
+    "name": "UP! button",
+    "group": "S"
+  },
+  "🆚": {
+    "name": "VS button",
+    "group": "S"
+  },
+  "🈁": {
+    "name": "Japanese “here” button",
+    "group": "S"
+  },
+  "🈂️": {
+    "name": "Japanese “service charge” button",
+    "group": "S"
+  },
+  "🈷️": {
+    "name": "Japanese “monthly amount” button",
+    "group": "S"
+  },
+  "🈶": {
+    "name": "Japanese “not free of charge” button",
+    "group": "S"
+  },
+  "🈯": {
+    "name": "Japanese “reserved” button",
+    "group": "S"
+  },
+  "🉐": {
+    "name": "Japanese “bargain” button",
+    "group": "S"
+  },
+  "🈹": {
+    "name": "Japanese “discount” button",
+    "group": "S"
+  },
+  "🈚": {
+    "name": "Japanese “free of charge” button",
+    "group": "S"
+  },
+  "🈲": {
+    "name": "Japanese “prohibited” button",
+    "group": "S"
+  },
+  "🉑": {
+    "name": "Japanese “acceptable” button",
+    "group": "S"
+  },
+  "🈸": {
+    "name": "Japanese “application” button",
+    "group": "S"
+  },
+  "🈴": {
+    "name": "Japanese “passing grade” button",
+    "group": "S"
+  },
+  "🈳": {
+    "name": "Japanese “vacancy” button",
+    "group": "S"
+  },
+  "㊗️": {
+    "name": "Japanese “congratulations” button",
+    "group": "S"
+  },
+  "㊙️": {
+    "name": "Japanese “secret” button",
+    "group": "S"
+  },
+  "🈺": {
+    "name": "Japanese “open for business” button",
+    "group": "S"
+  },
+  "🈵": {
+    "name": "Japanese “no vacancy” button",
+    "group": "S"
+  },
+  "🔴": {
+    "name": "red circle",
+    "group": "S"
+  },
+  "🟠": {
+    "name": "orange circle",
+    "group": "S"
+  },
+  "🟡": {
+    "name": "yellow circle",
+    "group": "S"
+  },
+  "🟢": {
+    "name": "green circle",
+    "group": "S"
+  },
+  "🔵": {
+    "name": "blue circle",
+    "group": "S"
+  },
+  "🟣": {
+    "name": "purple circle",
+    "group": "S"
+  },
+  "🟤": {
+    "name": "brown circle",
+    "group": "S"
+  },
+  "⚫": {
+    "name": "black circle",
+    "group": "S"
+  },
+  "⚪": {
+    "name": "white circle",
+    "group": "S"
+  },
+  "🟥": {
+    "name": "red square",
+    "group": "S"
+  },
+  "🟧": {
+    "name": "orange square",
+    "group": "S"
+  },
+  "🟨": {
+    "name": "yellow square",
+    "group": "S"
+  },
+  "🟩": {
+    "name": "green square",
+    "group": "S"
+  },
+  "🟦": {
+    "name": "blue square",
+    "group": "S"
+  },
+  "🟪": {
+    "name": "purple square",
+    "group": "S"
+  },
+  "🟫": {
+    "name": "brown square",
+    "group": "S"
+  },
+  "⬛": {
+    "name": "black large square",
+    "group": "S"
+  },
+  "⬜": {
+    "name": "white large square",
+    "group": "S"
+  },
+  "◼️": {
+    "name": "black medium square",
+    "group": "S"
+  },
+  "◻️": {
+    "name": "white medium square",
+    "group": "S"
+  },
+  "◾": {
+    "name": "black medium-small square",
+    "group": "S"
+  },
+  "◽": {
+    "name": "white medium-small square",
+    "group": "S"
+  },
+  "▪️": {
+    "name": "black small square",
+    "group": "S"
+  },
+  "▫️": {
+    "name": "white small square",
+    "group": "S"
+  },
+  "🔶": {
+    "name": "large orange diamond",
+    "group": "S"
+  },
+  "🔷": {
+    "name": "large blue diamond",
+    "group": "S"
+  },
+  "🔸": {
+    "name": "small orange diamond",
+    "group": "S"
+  },
+  "🔹": {
+    "name": "small blue diamond",
+    "group": "S"
+  },
+  "🔺": {
+    "name": "red triangle pointed up",
+    "group": "S"
+  },
+  "🔻": {
+    "name": "red triangle pointed down",
+    "group": "S"
+  },
+  "💠": {
+    "name": "diamond with a dot",
+    "group": "S"
+  },
+  "🔘": {
+    "name": "radio button",
+    "group": "S"
+  },
+  "🔳": {
+    "name": "white square button",
+    "group": "S"
+  },
+  "🔲": {
+    "name": "black square button",
+    "group": "S"
+  },
+  "🏁": {
+    "name": "chequered flag",
+    "group": "F"
+  },
+  "🚩": {
+    "name": "triangular flag",
+    "group": "F"
+  },
+  "🎌": {
+    "name": "crossed flags",
+    "group": "F"
+  },
+  "🏴": {
+    "name": "black flag",
+    "group": "F"
+  },
+  "🏳️": {
+    "name": "white flag",
+    "group": "F"
+  },
+  "🏳️‍🌈": {
+    "name": "rainbow flag",
+    "group": "F"
+  },
+  "🏳️‍⚧️": {
+    "name": "transgender flag",
+    "group": "F"
+  },
+  "🏴‍☠️": {
+    "name": "pirate flag",
+    "group": "F"
+  },
+  "🇦🇨": {
+    "name": "flag Ascension Island",
+    "group": "F"
+  },
+  "🇦🇩": {
+    "name": "flag Andorra",
+    "group": "F"
+  },
+  "🇦🇪": {
+    "name": "flag United Arab Emirates",
+    "group": "F"
+  },
+  "🇦🇫": {
+    "name": "flag Afghanistan",
+    "group": "F"
+  },
+  "🇦🇬": {
+    "name": "flag Antigua & Barbuda",
+    "group": "F"
+  },
+  "🇦🇮": {
+    "name": "flag Anguilla",
+    "group": "F"
+  },
+  "🇦🇱": {
+    "name": "flag Albania",
+    "group": "F"
+  },
+  "🇦🇲": {
+    "name": "flag Armenia",
+    "group": "F"
+  },
+  "🇦🇴": {
+    "name": "flag Angola",
+    "group": "F"
+  },
+  "🇦🇶": {
+    "name": "flag Antarctica",
+    "group": "F"
+  },
+  "🇦🇷": {
+    "name": "flag Argentina",
+    "group": "F"
+  },
+  "🇦🇸": {
+    "name": "flag American Samoa",
+    "group": "F"
+  },
+  "🇦🇹": {
+    "name": "flag Austria",
+    "group": "F"
+  },
+  "🇦🇺": {
+    "name": "flag Australia",
+    "group": "F"
+  },
+  "🇦🇼": {
+    "name": "flag Aruba",
+    "group": "F"
+  },
+  "🇦🇽": {
+    "name": "flag Åland Islands",
+    "group": "F"
+  },
+  "🇦🇿": {
+    "name": "flag Azerbaijan",
+    "group": "F"
+  },
+  "🇧🇦": {
+    "name": "flag Bosnia & Herzegovina",
+    "group": "F"
+  },
+  "🇧🇧": {
+    "name": "flag Barbados",
+    "group": "F"
+  },
+  "🇧🇩": {
+    "name": "flag Bangladesh",
+    "group": "F"
+  },
+  "🇧🇪": {
+    "name": "flag Belgium",
+    "group": "F"
+  },
+  "🇧🇫": {
+    "name": "flag Burkina Faso",
+    "group": "F"
+  },
+  "🇧🇬": {
+    "name": "flag Bulgaria",
+    "group": "F"
+  },
+  "🇧🇭": {
+    "name": "flag Bahrain",
+    "group": "F"
+  },
+  "🇧🇮": {
+    "name": "flag Burundi",
+    "group": "F"
+  },
+  "🇧🇯": {
+    "name": "flag Benin",
+    "group": "F"
+  },
+  "🇧🇱": {
+    "name": "flag St. Barthélemy",
+    "group": "F"
+  },
+  "🇧🇲": {
+    "name": "flag Bermuda",
+    "group": "F"
+  },
+  "🇧🇳": {
+    "name": "flag Brunei",
+    "group": "F"
+  },
+  "🇧🇴": {
+    "name": "flag Bolivia",
+    "group": "F"
+  },
+  "🇧🇶": {
+    "name": "flag Caribbean Netherlands",
+    "group": "F"
+  },
+  "🇧🇷": {
+    "name": "flag Brazil",
+    "group": "F"
+  },
+  "🇧🇸": {
+    "name": "flag Bahamas",
+    "group": "F"
+  },
+  "🇧🇹": {
+    "name": "flag Bhutan",
+    "group": "F"
+  },
+  "🇧🇻": {
+    "name": "flag Bouvet Island",
+    "group": "F"
+  },
+  "🇧🇼": {
+    "name": "flag Botswana",
+    "group": "F"
+  },
+  "🇧🇾": {
+    "name": "flag Belarus",
+    "group": "F"
+  },
+  "🇧🇿": {
+    "name": "flag Belize",
+    "group": "F"
+  },
+  "🇨🇦": {
+    "name": "flag Canada",
+    "group": "F"
+  },
+  "🇨🇨": {
+    "name": "flag Cocos (Keeling) Islands",
+    "group": "F"
+  },
+  "🇨🇩": {
+    "name": "flag Congo - Kinshasa",
+    "group": "F"
+  },
+  "🇨🇫": {
+    "name": "flag Central African Republic",
+    "group": "F"
+  },
+  "🇨🇬": {
+    "name": "flag Congo - Brazzaville",
+    "group": "F"
+  },
+  "🇨🇭": {
+    "name": "flag Switzerland",
+    "group": "F"
+  },
+  "🇨🇮": {
+    "name": "flag Côte d’Ivoire",
+    "group": "F"
+  },
+  "🇨🇰": {
+    "name": "flag Cook Islands",
+    "group": "F"
+  },
+  "🇨🇱": {
+    "name": "flag Chile",
+    "group": "F"
+  },
+  "🇨🇲": {
+    "name": "flag Cameroon",
+    "group": "F"
+  },
+  "🇨🇳": {
+    "name": "flag China",
+    "group": "F"
+  },
+  "🇨🇴": {
+    "name": "flag Colombia",
+    "group": "F"
+  },
+  "🇨🇵": {
+    "name": "flag Clipperton Island",
+    "group": "F"
+  },
+  "🇨🇷": {
+    "name": "flag Costa Rica",
+    "group": "F"
+  },
+  "🇨🇺": {
+    "name": "flag Cuba",
+    "group": "F"
+  },
+  "🇨🇻": {
+    "name": "flag Cape Verde",
+    "group": "F"
+  },
+  "🇨🇼": {
+    "name": "flag Curaçao",
+    "group": "F"
+  },
+  "🇨🇽": {
+    "name": "flag Christmas Island",
+    "group": "F"
+  },
+  "🇨🇾": {
+    "name": "flag Cyprus",
+    "group": "F"
+  },
+  "🇨🇿": {
+    "name": "flag Czechia",
+    "group": "F"
+  },
+  "🇩🇪": {
+    "name": "flag Germany",
+    "group": "F"
+  },
+  "🇩🇬": {
+    "name": "flag Diego Garcia",
+    "group": "F"
+  },
+  "🇩🇯": {
+    "name": "flag Djibouti",
+    "group": "F"
+  },
+  "🇩🇰": {
+    "name": "flag Denmark",
+    "group": "F"
+  },
+  "🇩🇲": {
+    "name": "flag Dominica",
+    "group": "F"
+  },
+  "🇩🇴": {
+    "name": "flag Dominican Republic",
+    "group": "F"
+  },
+  "🇩🇿": {
+    "name": "flag Algeria",
+    "group": "F"
+  },
+  "🇪🇦": {
+    "name": "flag Ceuta & Melilla",
+    "group": "F"
+  },
+  "🇪🇨": {
+    "name": "flag Ecuador",
+    "group": "F"
+  },
+  "🇪🇪": {
+    "name": "flag Estonia",
+    "group": "F"
+  },
+  "🇪🇬": {
+    "name": "flag Egypt",
+    "group": "F"
+  },
+  "🇪🇭": {
+    "name": "flag Western Sahara",
+    "group": "F"
+  },
+  "🇪🇷": {
+    "name": "flag Eritrea",
+    "group": "F"
+  },
+  "🇪🇸": {
+    "name": "flag Spain",
+    "group": "F"
+  },
+  "🇪🇹": {
+    "name": "flag Ethiopia",
+    "group": "F"
+  },
+  "🇪🇺": {
+    "name": "flag European Union",
+    "group": "F"
+  },
+  "🇫🇮": {
+    "name": "flag Finland",
+    "group": "F"
+  },
+  "🇫🇯": {
+    "name": "flag Fiji",
+    "group": "F"
+  },
+  "🇫🇰": {
+    "name": "flag Falkland Islands",
+    "group": "F"
+  },
+  "🇫🇲": {
+    "name": "flag Micronesia",
+    "group": "F"
+  },
+  "🇫🇴": {
+    "name": "flag Faroe Islands",
+    "group": "F"
+  },
+  "🇫🇷": {
+    "name": "flag France",
+    "group": "F"
+  },
+  "🇬🇦": {
+    "name": "flag Gabon",
+    "group": "F"
+  },
+  "🇬🇧": {
+    "name": "flag United Kingdom",
+    "group": "F"
+  },
+  "🇬🇩": {
+    "name": "flag Grenada",
+    "group": "F"
+  },
+  "🇬🇪": {
+    "name": "flag Georgia",
+    "group": "F"
+  },
+  "🇬🇫": {
+    "name": "flag French Guiana",
+    "group": "F"
+  },
+  "🇬🇬": {
+    "name": "flag Guernsey",
+    "group": "F"
+  },
+  "🇬🇭": {
+    "name": "flag Ghana",
+    "group": "F"
+  },
+  "🇬🇮": {
+    "name": "flag Gibraltar",
+    "group": "F"
+  },
+  "🇬🇱": {
+    "name": "flag Greenland",
+    "group": "F"
+  },
+  "🇬🇲": {
+    "name": "flag Gambia",
+    "group": "F"
+  },
+  "🇬🇳": {
+    "name": "flag Guinea",
+    "group": "F"
+  },
+  "🇬🇵": {
+    "name": "flag Guadeloupe",
+    "group": "F"
+  },
+  "🇬🇶": {
+    "name": "flag Equatorial Guinea",
+    "group": "F"
+  },
+  "🇬🇷": {
+    "name": "flag Greece",
+    "group": "F"
+  },
+  "🇬🇸": {
+    "name": "flag South Georgia & South Sandwich Islands",
+    "group": "F"
+  },
+  "🇬🇹": {
+    "name": "flag Guatemala",
+    "group": "F"
+  },
+  "🇬🇺": {
+    "name": "flag Guam",
+    "group": "F"
+  },
+  "🇬🇼": {
+    "name": "flag Guinea-Bissau",
+    "group": "F"
+  },
+  "🇬🇾": {
+    "name": "flag Guyana",
+    "group": "F"
+  },
+  "🇭🇰": {
+    "name": "flag Hong Kong SAR China",
+    "group": "F"
+  },
+  "🇭🇲": {
+    "name": "flag Heard & McDonald Islands",
+    "group": "F"
+  },
+  "🇭🇳": {
+    "name": "flag Honduras",
+    "group": "F"
+  },
+  "🇭🇷": {
+    "name": "flag Croatia",
+    "group": "F"
+  },
+  "🇭🇹": {
+    "name": "flag Haiti",
+    "group": "F"
+  },
+  "🇭🇺": {
+    "name": "flag Hungary",
+    "group": "F"
+  },
+  "🇮🇨": {
+    "name": "flag Canary Islands",
+    "group": "F"
+  },
+  "🇮🇩": {
+    "name": "flag Indonesia",
+    "group": "F"
+  },
+  "🇮🇪": {
+    "name": "flag Ireland",
+    "group": "F"
+  },
+  "🇮🇱": {
+    "name": "flag Israel",
+    "group": "F"
+  },
+  "🇮🇲": {
+    "name": "flag Isle of Man",
+    "group": "F"
+  },
+  "🇮🇳": {
+    "name": "flag India",
+    "group": "F"
+  },
+  "🇮🇴": {
+    "name": "flag British Indian Ocean Territory",
+    "group": "F"
+  },
+  "🇮🇶": {
+    "name": "flag Iraq",
+    "group": "F"
+  },
+  "🇮🇷": {
+    "name": "flag Iran",
+    "group": "F"
+  },
+  "🇮🇸": {
+    "name": "flag Iceland",
+    "group": "F"
+  },
+  "🇮🇹": {
+    "name": "flag Italy",
+    "group": "F"
+  },
+  "🇯🇪": {
+    "name": "flag Jersey",
+    "group": "F"
+  },
+  "🇯🇲": {
+    "name": "flag Jamaica",
+    "group": "F"
+  },
+  "🇯🇴": {
+    "name": "flag Jordan",
+    "group": "F"
+  },
+  "🇯🇵": {
+    "name": "flag Japan",
+    "group": "F"
+  },
+  "🇰🇪": {
+    "name": "flag Kenya",
+    "group": "F"
+  },
+  "🇰🇬": {
+    "name": "flag Kyrgyzstan",
+    "group": "F"
+  },
+  "🇰🇭": {
+    "name": "flag Cambodia",
+    "group": "F"
+  },
+  "🇰🇮": {
+    "name": "flag Kiribati",
+    "group": "F"
+  },
+  "🇰🇲": {
+    "name": "flag Comoros",
+    "group": "F"
+  },
+  "🇰🇳": {
+    "name": "flag St. Kitts & Nevis",
+    "group": "F"
+  },
+  "🇰🇵": {
+    "name": "flag North Korea",
+    "group": "F"
+  },
+  "🇰🇷": {
+    "name": "flag South Korea",
+    "group": "F"
+  },
+  "🇰🇼": {
+    "name": "flag Kuwait",
+    "group": "F"
+  },
+  "🇰🇾": {
+    "name": "flag Cayman Islands",
+    "group": "F"
+  },
+  "🇰🇿": {
+    "name": "flag Kazakhstan",
+    "group": "F"
+  },
+  "🇱🇦": {
+    "name": "flag Laos",
+    "group": "F"
+  },
+  "🇱🇧": {
+    "name": "flag Lebanon",
+    "group": "F"
+  },
+  "🇱🇨": {
+    "name": "flag St. Lucia",
+    "group": "F"
+  },
+  "🇱🇮": {
+    "name": "flag Liechtenstein",
+    "group": "F"
+  },
+  "🇱🇰": {
+    "name": "flag Sri Lanka",
+    "group": "F"
+  },
+  "🇱🇷": {
+    "name": "flag Liberia",
+    "group": "F"
+  },
+  "🇱🇸": {
+    "name": "flag Lesotho",
+    "group": "F"
+  },
+  "🇱🇹": {
+    "name": "flag Lithuania",
+    "group": "F"
+  },
+  "🇱🇺": {
+    "name": "flag Luxembourg",
+    "group": "F"
+  },
+  "🇱🇻": {
+    "name": "flag Latvia",
+    "group": "F"
+  },
+  "🇱🇾": {
+    "name": "flag Libya",
+    "group": "F"
+  },
+  "🇲🇦": {
+    "name": "flag Morocco",
+    "group": "F"
+  },
+  "🇲🇨": {
+    "name": "flag Monaco",
+    "group": "F"
+  },
+  "🇲🇩": {
+    "name": "flag Moldova",
+    "group": "F"
+  },
+  "🇲🇪": {
+    "name": "flag Montenegro",
+    "group": "F"
+  },
+  "🇲🇫": {
+    "name": "flag St. Martin",
+    "group": "F"
+  },
+  "🇲🇬": {
+    "name": "flag Madagascar",
+    "group": "F"
+  },
+  "🇲🇭": {
+    "name": "flag Marshall Islands",
+    "group": "F"
+  },
+  "🇲🇰": {
+    "name": "flag North Macedonia",
+    "group": "F"
+  },
+  "🇲🇱": {
+    "name": "flag Mali",
+    "group": "F"
+  },
+  "🇲🇲": {
+    "name": "flag Myanmar (Burma)",
+    "group": "F"
+  },
+  "🇲🇳": {
+    "name": "flag Mongolia",
+    "group": "F"
+  },
+  "🇲🇴": {
+    "name": "flag Macao SAR China",
+    "group": "F"
+  },
+  "🇲🇵": {
+    "name": "flag Northern Mariana Islands",
+    "group": "F"
+  },
+  "🇲🇶": {
+    "name": "flag Martinique",
+    "group": "F"
+  },
+  "🇲🇷": {
+    "name": "flag Mauritania",
+    "group": "F"
+  },
+  "🇲🇸": {
+    "name": "flag Montserrat",
+    "group": "F"
+  },
+  "🇲🇹": {
+    "name": "flag Malta",
+    "group": "F"
+  },
+  "🇲🇺": {
+    "name": "flag Mauritius",
+    "group": "F"
+  },
+  "🇲🇻": {
+    "name": "flag Maldives",
+    "group": "F"
+  },
+  "🇲🇼": {
+    "name": "flag Malawi",
+    "group": "F"
+  },
+  "🇲🇽": {
+    "name": "flag Mexico",
+    "group": "F"
+  },
+  "🇲🇾": {
+    "name": "flag Malaysia",
+    "group": "F"
+  },
+  "🇲🇿": {
+    "name": "flag Mozambique",
+    "group": "F"
+  },
+  "🇳🇦": {
+    "name": "flag Namibia",
+    "group": "F"
+  },
+  "🇳🇨": {
+    "name": "flag New Caledonia",
+    "group": "F"
+  },
+  "🇳🇪": {
+    "name": "flag Niger",
+    "group": "F"
+  },
+  "🇳🇫": {
+    "name": "flag Norfolk Island",
+    "group": "F"
+  },
+  "🇳🇬": {
+    "name": "flag Nigeria",
+    "group": "F"
+  },
+  "🇳🇮": {
+    "name": "flag Nicaragua",
+    "group": "F"
+  },
+  "🇳🇱": {
+    "name": "flag Netherlands",
+    "group": "F"
+  },
+  "🇳🇴": {
+    "name": "flag Norway",
+    "group": "F"
+  },
+  "🇳🇵": {
+    "name": "flag Nepal",
+    "group": "F"
+  },
+  "🇳🇷": {
+    "name": "flag Nauru",
+    "group": "F"
+  },
+  "🇳🇺": {
+    "name": "flag Niue",
+    "group": "F"
+  },
+  "🇳🇿": {
+    "name": "flag New Zealand",
+    "group": "F"
+  },
+  "🇴🇲": {
+    "name": "flag Oman",
+    "group": "F"
+  },
+  "🇵🇦": {
+    "name": "flag Panama",
+    "group": "F"
+  },
+  "🇵🇪": {
+    "name": "flag Peru",
+    "group": "F"
+  },
+  "🇵🇫": {
+    "name": "flag French Polynesia",
+    "group": "F"
+  },
+  "🇵🇬": {
+    "name": "flag Papua New Guinea",
+    "group": "F"
+  },
+  "🇵🇭": {
+    "name": "flag Philippines",
+    "group": "F"
+  },
+  "🇵🇰": {
+    "name": "flag Pakistan",
+    "group": "F"
+  },
+  "🇵🇱": {
+    "name": "flag Poland",
+    "group": "F"
+  },
+  "🇵🇲": {
+    "name": "flag St. Pierre & Miquelon",
+    "group": "F"
+  },
+  "🇵🇳": {
+    "name": "flag Pitcairn Islands",
+    "group": "F"
+  },
+  "🇵🇷": {
+    "name": "flag Puerto Rico",
+    "group": "F"
+  },
+  "🇵🇸": {
+    "name": "flag Palestinian Territories",
+    "group": "F"
+  },
+  "🇵🇹": {
+    "name": "flag Portugal",
+    "group": "F"
+  },
+  "🇵🇼": {
+    "name": "flag Palau",
+    "group": "F"
+  },
+  "🇵🇾": {
+    "name": "flag Paraguay",
+    "group": "F"
+  },
+  "🇶🇦": {
+    "name": "flag Qatar",
+    "group": "F"
+  },
+  "🇷🇪": {
+    "name": "flag Réunion",
+    "group": "F"
+  },
+  "🇷🇴": {
+    "name": "flag Romania",
+    "group": "F"
+  },
+  "🇷🇸": {
+    "name": "flag Serbia",
+    "group": "F"
+  },
+  "🇷🇺": {
+    "name": "flag Russia",
+    "group": "F"
+  },
+  "🇷🇼": {
+    "name": "flag Rwanda",
+    "group": "F"
+  },
+  "🇸🇦": {
+    "name": "flag Saudi Arabia",
+    "group": "F"
+  },
+  "🇸🇧": {
+    "name": "flag Solomon Islands",
+    "group": "F"
+  },
+  "🇸🇨": {
+    "name": "flag Seychelles",
+    "group": "F"
+  },
+  "🇸🇩": {
+    "name": "flag Sudan",
+    "group": "F"
+  },
+  "🇸🇪": {
+    "name": "flag Sweden",
+    "group": "F"
+  },
+  "🇸🇬": {
+    "name": "flag Singapore",
+    "group": "F"
+  },
+  "🇸🇭": {
+    "name": "flag St. Helena",
+    "group": "F"
+  },
+  "🇸🇮": {
+    "name": "flag Slovenia",
+    "group": "F"
+  },
+  "🇸🇯": {
+    "name": "flag Svalbard & Jan Mayen",
+    "group": "F"
+  },
+  "🇸🇰": {
+    "name": "flag Slovakia",
+    "group": "F"
+  },
+  "🇸🇱": {
+    "name": "flag Sierra Leone",
+    "group": "F"
+  },
+  "🇸🇲": {
+    "name": "flag San Marino",
+    "group": "F"
+  },
+  "🇸🇳": {
+    "name": "flag Senegal",
+    "group": "F"
+  },
+  "🇸🇴": {
+    "name": "flag Somalia",
+    "group": "F"
+  },
+  "🇸🇷": {
+    "name": "flag Suriname",
+    "group": "F"
+  },
+  "🇸🇸": {
+    "name": "flag South Sudan",
+    "group": "F"
+  },
+  "🇸🇹": {
+    "name": "flag São Tomé & Príncipe",
+    "group": "F"
+  },
+  "🇸🇻": {
+    "name": "flag El Salvador",
+    "group": "F"
+  },
+  "🇸🇽": {
+    "name": "flag Sint Maarten",
+    "group": "F"
+  },
+  "🇸🇾": {
+    "name": "flag Syria",
+    "group": "F"
+  },
+  "🇸🇿": {
+    "name": "flag Eswatini",
+    "group": "F"
+  },
+  "🇹🇦": {
+    "name": "flag Tristan da Cunha",
+    "group": "F"
+  },
+  "🇹🇨": {
+    "name": "flag Turks & Caicos Islands",
+    "group": "F"
+  },
+  "🇹🇩": {
+    "name": "flag Chad",
+    "group": "F"
+  },
+  "🇹🇫": {
+    "name": "flag French Southern Territories",
+    "group": "F"
+  },
+  "🇹🇬": {
+    "name": "flag Togo",
+    "group": "F"
+  },
+  "🇹🇭": {
+    "name": "flag Thailand",
+    "group": "F"
+  },
+  "🇹🇯": {
+    "name": "flag Tajikistan",
+    "group": "F"
+  },
+  "🇹🇰": {
+    "name": "flag Tokelau",
+    "group": "F"
+  },
+  "🇹🇱": {
+    "name": "flag Timor-Leste",
+    "group": "F"
+  },
+  "🇹🇲": {
+    "name": "flag Turkmenistan",
+    "group": "F"
+  },
+  "🇹🇳": {
+    "name": "flag Tunisia",
+    "group": "F"
+  },
+  "🇹🇴": {
+    "name": "flag Tonga",
+    "group": "F"
+  },
+  "🇹🇷": {
+    "name": "flag Türkiye",
+    "group": "F"
+  },
+  "🇹🇹": {
+    "name": "flag Trinidad & Tobago",
+    "group": "F"
+  },
+  "🇹🇻": {
+    "name": "flag Tuvalu",
+    "group": "F"
+  },
+  "🇹🇼": {
+    "name": "flag Taiwan",
+    "group": "F"
+  },
+  "🇹🇿": {
+    "name": "flag Tanzania",
+    "group": "F"
+  },
+  "🇺🇦": {
+    "name": "flag Ukraine",
+    "group": "F"
+  },
+  "🇺🇬": {
+    "name": "flag Uganda",
+    "group": "F"
+  },
+  "🇺🇲": {
+    "name": "flag U.S. Outlying Islands",
+    "group": "F"
+  },
+  "🇺🇳": {
+    "name": "flag United Nations",
+    "group": "F"
+  },
+  "🇺🇸": {
+    "name": "flag United States",
+    "group": "F"
+  },
+  "🇺🇾": {
+    "name": "flag Uruguay",
+    "group": "F"
+  },
+  "🇺🇿": {
+    "name": "flag Uzbekistan",
+    "group": "F"
+  },
+  "🇻🇦": {
+    "name": "flag Vatican City",
+    "group": "F"
+  },
+  "🇻🇨": {
+    "name": "flag St. Vincent & Grenadines",
+    "group": "F"
+  },
+  "🇻🇪": {
+    "name": "flag Venezuela",
+    "group": "F"
+  },
+  "🇻🇬": {
+    "name": "flag British Virgin Islands",
+    "group": "F"
+  },
+  "🇻🇮": {
+    "name": "flag U.S. Virgin Islands",
+    "group": "F"
+  },
+  "🇻🇳": {
+    "name": "flag Vietnam",
+    "group": "F"
+  },
+  "🇻🇺": {
+    "name": "flag Vanuatu",
+    "group": "F"
+  },
+  "🇼🇫": {
+    "name": "flag Wallis & Futuna",
+    "group": "F"
+  },
+  "🇼🇸": {
+    "name": "flag Samoa",
+    "group": "F"
+  },
+  "🇽🇰": {
+    "name": "flag Kosovo",
+    "group": "F"
+  },
+  "🇾🇪": {
+    "name": "flag Yemen",
+    "group": "F"
+  },
+  "🇾🇹": {
+    "name": "flag Mayotte",
+    "group": "F"
+  },
+  "🇿🇦": {
+    "name": "flag South Africa",
+    "group": "F"
+  },
+  "🇿🇲": {
+    "name": "flag Zambia",
+    "group": "F"
+  },
+  "🇿🇼": {
+    "name": "flag Zimbabwe",
+    "group": "F"
+  },
+  "🏴󠁧󠁢󠁥󠁮󠁧󠁿": {
+    "name": "flag England",
+    "group": "F"
+  },
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿": {
+    "name": "flag Scotland",
+    "group": "F"
+  },
+  "🏴󠁧󠁢󠁷󠁬󠁳󠁿": {
+    "name": "flag Wales",
+    "group": "F"
+  }
+}
