@@ -124,8 +124,11 @@ The tone flag is present where needed; in other cases, it remains undefined to a
 ## Showcases
 
 Chrome Extension: [Emoji Keyboard Copy & Paste](https://chromewebstore.google.com/detail/lgdjbhmmimmgenckodpogdgakjepiicm)
+
 Edge Add-on: [Emoji Keyboard Copy & Paste](https://microsoftedge.microsoft.com/addons/detail/madhfecnpclggkpaaklddcdchhajkmoo)
+
 Website: [Emoj.in](https://emoj.in/)
+
 
 ## Unicode License Agreement
 
