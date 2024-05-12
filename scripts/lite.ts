@@ -36,8 +36,13 @@ const simplifiedEmojisGroup = emojisGroup.map((group) => ({
   })),
 }));
 
+export const invertedGroupMap = Object.entries(expectedGroupMap).reduce((acc, [key, value]) => {
+  acc[value] = key;
+  return acc;
+}, {});
+
 writeFileSync('data-by-group-lite.json', JSON.stringify(simplifiedEmojisGroup, null, 2));
 writeFileSync('data-by-emoji-lite.json', JSON.stringify(simplifiedEmojis, null, 2));
 writeFileSync('data-emoji-components.json', JSON.stringify(emojisComponents, null, 2));
 writeFileSync('data-ordered-emoji.json', JSON.stringify(emojisOrdered, null, 2));
-writeFileSync('data-group-map.json', JSON.stringify(expectedGroupMap, null, 2));
+writeFileSync('data-group-map.json', JSON.stringify(invertedGroupMap, null, 2));

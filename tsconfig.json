@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "ES6",
+    "module": "CommonJS",
+    "target": "ES5",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "moduleResolution": "node",
-    "outDir": "./dist",
+    "outDir": ".",
     "rootDir": ".",
     "baseUrl": ".",
     "paths": {
@@ -14,6 +14,6 @@
     "typeRoots": ["./node_modules/@types"],
     "types": ["node"]
   },
-  "include": ["scripts/*", "tests/*"],
+  "include": ["**/index.ts", "**/index.d.ts"],
   "exclude": ["node_modules"]
 }

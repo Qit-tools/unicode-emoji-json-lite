@@ -4,6 +4,11 @@
 
 This 📚 library provides a 🪶 lightweight version of the [unicode-emoji-json](https://www.npmjs.com/package/unicode-emoji-json) library. Essentially, this library simplifies JSON files by using ready-made JSON from the unicode-emoji-json library.
 
+## 👀 DEMO
+
+Example of using the library: [Random Emoji Generator](https://qit.tools/generators/emoji/)
+
+
 ## 🏗️ Install
 
 ### 🎉 NPM
@@ -29,6 +34,14 @@ pnpm add @qit.tools/unicode-emoji-json-lite
 ```bash
 yarn add @qit.tools/unicode-emoji-json-lite
 ```
+
+## 🎓 How to use
+
+```ts
+import { dataEmoji, dataEmojiByGroup, dataEmojiComponents, dataEmojiGroupMap, dataEmojiOrdered } from "@qit.tools/unicode-emoji-json-lite";
+import type { DataEmoji, DataEmojiGroup, DataEmojiMap, DataEmojiOrdered } from "@qit.tools/unicode-emoji-json-lite";
+```
+
 
 ## 📝 Details
 
@@ -97,15 +110,15 @@ The tone flag is present where needed; in other cases, it remains undefined to a
 
 ```json
 {
-  "Smileys & Emotion": "SE",
-  "People & Body": "PB",
-  "Animals & Nature": "AN",
-  "Food & Drink": "FD",
-  "Travel & Places": "TP",
-  "Activities": "A",
-  "Objects": "O",
-  "Symbols": "S",
-  "Flags": "F"
+  "SE": "Smileys & Emotion",
+  "PB": "People & Body",
+  "AN": "Animals & Nature",
+  "FD": "Food & Drink",
+  "TP": "Travel & Places",
+  "A": "Activities",
+  "O": "Objects",
+  "S": "Symbols",
+  "F": "Flags"
 }
 ```
 

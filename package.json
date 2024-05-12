@@ -1,38 +1,40 @@
 {
   "name": "@qit.tools/unicode-emoji-json-lite",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "description": "This library provides a lightweight version of the unicode-emoji-json library.",
-  "main": "data-by-emoji-lite.json",
+  "main": "index.js",
+  "types": "./index.d.ts",
   "files": [
     "data-by-emoji-lite.json",
     "data-by-group-lite.json",
     "data-emoji-components.json",
     "data-group-map.json",
-    "data-ordered-emoji.json"
+    "index.d.ts",
+    "index.js",
+    "index.ts"
   ],
   "scripts": {
     "build": "tsc",
     "test": "ts-node tests/lite.test.ts",
     "start": "ts-node scripts/lite.ts",
-    "lint": "eslint './**/*.{ts,tsx}' --fix",
+    "lint": "eslint './**/*.{ts,json}' --fix",
     "fmt": "prettier --write '**/*.{ts,json}'"
   },
   "devDependencies": {
+    "@eslint/js": "^9.2.0",
     "@types/node": "^20.12.11",
     "@types/prettier": "^3.0.0",
     "@types/tape": "^5.6.4",
-    "@typescript-eslint/eslint-plugin": "^7.8.0",
-    "@typescript-eslint/parser": "^7.8.0",
     "eslint": "^8.57.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.1.3",
-    "unicode-emoji-json": "latest",
+    "globals": "^15.2.0",
     "prettier": "^3.2.5",
     "tape": "^5.7.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0",
+    "unicode-emoji-json": "latest"
   },
-  "homepage": "https://qit.tools/",
+  "homepage": "https://qit.tools/generators/emoji/",
   "bugs": {
     "url": "https://github.com/dejurin/unicode-emoji-json-lite/issues"
   },
@@ -40,6 +42,6 @@
     "type": "git",
     "url": "git+https://github.com/dejurin/unicode-emoji-json-lite.git"
   },
-  "keywords": ["emoji", "unicode", "json", "emoji-data", "lite"],
+  "keywords": ["emoji", "emojis", "unicode", "json", "emoji-data", "lite", "picker"],
   "license": "MIT"
 }

@@ -1,7 +1,7 @@
 // tests/lite.test.ts
 import tape from 'tape';
 import { readFileSync } from 'fs';
-import { expectedGroupMap } from '../scripts/lite';
+import { invertedGroupMap } from '../scripts/lite';
 
 interface JSONParseResult {
   [key: string]: {
@@ -21,7 +21,7 @@ tape('Validate simplified emoji data', (t) => {
   const simplifiedGroups = readJsonFile('data-by-group-lite.json');
   const groupMap = readJsonFile('data-group-map.json');
 
-  for (const [key, value] of Object.entries(expectedGroupMap)) {
+  for (const [key, value] of Object.entries(invertedGroupMap)) {
     t.equal(groupMap[key], value, `Correct shortcut for ${key}`);
   }
 
@@ -29,7 +29,7 @@ tape('Validate simplified emoji data', (t) => {
 
   const exampleEmoji = '😀';
   t.equal(simplifiedEmojis[exampleEmoji].name, 'grinning face', 'Correct name for 😀');
-  t.equal(simplifiedEmojis[exampleEmoji].group, 'SE', 'Correct group shortcut for 😀');
+  t.equal(simplifiedEmojis[exampleEmoji].group, 'SE', 'Correct group shortcut (map) for 😀');
   t.equal(simplifiedEmojis[exampleEmoji].tone, undefined, 'Correct skin tone support for 😀');
 
   t.ok(simplifiedGroups.length > 0, 'Should have simplified groups');
