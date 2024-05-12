@@ -38,7 +38,15 @@ yarn add @qit.tools/unicode-emoji-json-lite
 ## 🎓 How to use
 
 ```ts
-import { dataEmoji, dataEmojiByGroup, dataEmojiComponents, dataEmojiGroupMap, dataEmojiOrdered } from "@qit.tools/unicode-emoji-json-lite";
+// Import by default
+import dataEmoji from "@qit.tools/unicode-emoji-json-lite";
+
+// Import by JSON files
+import dataEmoji from "@qit.tools/unicode-emoji-json-lite/data-by-emoji-lite.json";
+import dataEmojiGroup from "@qit.tools/unicode-emoji-json-lite/data-by-group-lite.json";
+// ...
+
+// Import types
 import type { DataEmoji, DataEmojiGroup, DataEmojiMap, DataEmojiOrdered } from "@qit.tools/unicode-emoji-json-lite";
 ```
 
