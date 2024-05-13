@@ -1,6 +1,6 @@
 {
   "name": "@qit.tools/unicode-emoji-json-lite",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "This library provides a lightweight version of the unicode-emoji-json library.",
   "exports": {
     "types": "./index.d.ts",
