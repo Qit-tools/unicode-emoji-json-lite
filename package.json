@@ -1,9 +1,11 @@
 {
   "name": "@qit.tools/unicode-emoji-json-lite",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "This library provides a lightweight version of the unicode-emoji-json library.",
-  "main": "data-by-emoji-lite.json",
-  "types": "./index.d.ts",
+  "exports": {
+    "types": "./index.d.ts",
+    "default": "./data-by-emoji-lite.json"
+  },
   "files": [
     "data-by-emoji-lite.json",
     "data-by-group-lite.json",
@@ -34,13 +36,18 @@
     "typescript-eslint": "^7.8.0",
     "unicode-emoji-json": "latest"
   },
-  "homepage": "https://qit.tools/generators/emoji/",
+  "author": {
+    "name": "Qit.tools",
+    "email": "info@qit.tools",
+    "url": "https://qit.tools/"
+  },
+  "homepage": "https://qit.tools/generators/random-emoji/",
   "bugs": {
-    "url": "https://github.com/dejurin/unicode-emoji-json-lite/issues"
+    "url": "https://github.com/Qit-tools/unicode-emoji-json-lite/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dejurin/unicode-emoji-json-lite.git"
+    "url": "git+https://github.com/Qit-tools/unicode-emoji-json-lite.git"
   },
   "keywords": ["emoji", "emojis", "unicode", "json", "emoji-data", "lite", "picker", "simple", "emotions", "list", "emoticons", "utf-8"],
   "license": "MIT"

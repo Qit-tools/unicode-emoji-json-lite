@@ -5,6 +5,8 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "moduleResolution": "node",
+    "declaration": true,
+    "declarationDir": ".",
     "outDir": ".",
     "rootDir": ".",
     "baseUrl": ".",

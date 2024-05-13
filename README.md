@@ -1,12 +1,12 @@
 # Unicode Emoji JSON Lite
 
-[![Test status](https://github.com/dejurin/unicode-emoji-json-lite/workflows/Node.js%20CI/badge.svg)](https://github.com/dejurin/unicode-emoji-json-lite/actions/workflows/node.js.yml)
+[![Test status](https://github.com/Qit-tools/unicode-emoji-json-lite/workflows/Node.js%20CI/badge.svg)](https://github.com/Qit-tools/unicode-emoji-json-lite/actions/workflows/node.js.yml)
 
 This 📚 [library](https://www.npmjs.com/package/@qit.tools/unicode-emoji-json-lite) provides a 🪶 lightweight version of the [unicode-emoji-json](https://www.npmjs.com/package/unicode-emoji-json) library. Essentially, this library simplifies JSON files by using ready-made JSON from the unicode-emoji-json library.
 
 ## 👀 DEMO
 
-Example of using the library: [Random Emoji Generator](https://qit.tools/generators/emoji/)
+Example of using the library: [Random Emoji Generator](https://qit.tools/generators/random-emoji/)
 
 
 ## 🏗️ Install
