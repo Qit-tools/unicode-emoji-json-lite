@@ -1,10 +1,13 @@
 {
   "name": "@qit.tools/unicode-emoji-json-lite",
-  "version": "0.4.3",
+  "version": "0.5.1",
   "description": "This library provides a lightweight version of the unicode-emoji-json library.",
+  "types": "./index.d.ts",
   "exports": {
-    "types": "./index.d.ts",
-    "default": "./data-by-emoji-lite.json"
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./data-by-emoji-lite.json"
+    }
   },
   "files": [
     "data-by-emoji-lite.json",
@@ -12,13 +15,12 @@
     "data-emoji-components.json",
     "data-group-map.json",
     "data-ordered-emoji.json",
-    "index.d.ts",
-    "index.ts"
+    "index.d.ts"
   ],
   "scripts": {
     "build": "tsc",
-    "test": "ts-node tests/lite.test.ts",
-    "start": "ts-node scripts/lite.ts",
+    "test": "tsx tests/lite.test.ts",
+    "start": "tsx scripts/lite.ts",
     "lint": "eslint './**/*.{ts,json}' --fix",
     "fmt": "prettier --write '**/*.{ts,json}'"
   },
@@ -32,6 +34,7 @@
     "prettier": "^3.2.5",
     "tape": "^5.7.5",
     "ts-node": "^10.9.2",
+    "tsx": "^4.10.2",
     "typescript": "^5.4.5",
     "typescript-eslint": "^7.8.0",
     "unicode-emoji-json": "latest"
@@ -49,6 +52,20 @@
     "type": "git",
     "url": "git+https://github.com/Qit-tools/unicode-emoji-json-lite.git"
   },
-  "keywords": ["emoji", "emojis", "unicode", "json", "emoji-data", "lite", "picker", "simple", "emotions", "list", "emoticons", "utf-8"],
+  "type": "module",
+  "keywords": [
+    "emoji",
+    "emojis",
+    "unicode",
+    "json",
+    "emoji-data",
+    "lite",
+    "picker",
+    "simple",
+    "emotions",
+    "list",
+    "emoticons",
+    "utf-8"
+  ],
   "license": "MIT"
 }

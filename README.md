@@ -4,10 +4,25 @@
 
 This 📚 [library](https://www.npmjs.com/package/@qit.tools/unicode-emoji-json-lite) provides a 🪶 lightweight version of the [unicode-emoji-json](https://www.npmjs.com/package/unicode-emoji-json) library. Essentially, this library simplifies JSON files by using ready-made JSON from the unicode-emoji-json library.
 
+### RGI only
+
+This data does not contain minimally-qualified and unqualified emoji.
+
+> RGI: Recommended for General Interchange. A subset of emojis which is likely to be widely supported across multiple platforms.
+
+> Minimally-qualified or unqualified emoji zwj sequences may be handled in the same way as their fully-qualified forms; the choice is up to the implementation.
+
+Full description can be found at http://www.unicode.org/reports/tr51/.
+
+To change the skin tone using JavaScript, use our library [@qit.tools/skin-tone](https://www.npmjs.com/package/@qit.tools/skin-tone).
+
 ## 👀 DEMO
 
 Example of using the library: [Random Emoji Generator](https://qit.tools/generators/random-emoji/)
 
+## CDN
+
+- [unpkg](https://unpkg.com/browse/@qit.tools/unicode-emoji-json-lite/)
 
 ## 🏗️ Install
 
@@ -150,6 +165,9 @@ Edge Add-on: [Emoji Keyboard Copy & Paste](https://microsoftedge.microsoft.com/a
 
 Website: [Emoj.in](https://emoj.in/)
 
+## License
+
+MIT
 
 ## Unicode License Agreement
 
