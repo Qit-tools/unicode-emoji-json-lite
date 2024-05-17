@@ -62,5 +62,9 @@
     "emoticons",
     "utf-8"
   ],
+  "funding": {
+    "type": "individual",
+    "url": "https://buymeacoffee.com/deyurii"
+  },
   "license": "MIT"
 }
